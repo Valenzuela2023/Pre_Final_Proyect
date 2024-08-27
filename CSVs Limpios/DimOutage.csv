@@ -1,0 +1,304 @@
+OutageKey,OutageName,OutageType,OutageTypeDescription,OutageSubType
+293,Hardware,Actualización de hardware,Actualización de hardware,Actualización de la versión de hardware
+294,Cambiar administración,Hardware,Hardware,Controlador de la matriz
+295,Hardware,Enrutador,Enrutador,Volcado principal
+296,Cambiar administración,Hardware,Hardware,Memoria
+297,Hardware,Unidad de disco duro,Unidad de disco duro,Partición de unidad llena
+298,Cambiar administración,Hardware,Hardware,Conector de unidad
+299,Dispositivo de red,Enrutador,Enrutador,Bloqueo
+300,Cambiar administración,Hardware,Hardware,Unidad de disco duro
+301,Seguridad,Cuenta de usuario,Cuenta de usuario,Deshabilitar
+302,Dispositivo de red,Concentrador,Concentrador,Cerrar puerto
+303,Hardware,Unidad de disco duro,Unidad de disco duro,Partición de unidad llena
+304,Dispositivo de red,Concentrador,Concentrador,Vínculo Gigabit
+305,Hardware,Sistema de alimentación,Sistema de alimentación,Error
+306,Hardware,Procesador,Procesador,Error
+307,Dispositivo de red,Concentrador,Concentrador,Port shut
+308,Seguridad,Grupo,Grupo,Creación
+309,Seguridad,Cuenta de servicio,Cuenta de servicio,Creación
+310,Seguridad,Cuenta de usuario,Cuenta de usuario,Creación
+311,Cambiar administración,Hardware,Hardware,Conector de unidad
+312,Seguridad,Acceso físico,Acceso físico,General
+313,Seguridad,Acceso físico,Acceso físico,General
+314,Solicitud,Administración de activos,Administración de activos,Transporte de hardware
+315,Seguridad,Acceso físico,Acceso físico,General
+316,Dispositivo de red,Enrutador,Enrutador,Vínculo Gigabit
+317,Dispositivo de red,Concentrador,Concentrador,Vínculo Gigabit
+318,Solicitud,Administración de activos,Administración de activos,Adquisición de hardware
+319,Solicitud,Administración de activos,Administración de activos,Adquisición de hardware
+320,Cambiar administración,Hardware,Hardware,Memoria
+321,Solicitud,Administración de activos,Administración de activos,Recepción de hardware
+322,Solicitud,Administración de activos,Administración de activos,Transporte de hardware
+323,Cambiar administración,Software,Software,Instalar o actualizar software
+324,Investigación,Software,Software,Instalar o actualizar software
+325,Hardware,MISC,MISC,IP temporal
+326,Solicitud,Knowledge Base,Knowledge Base,Modificación
+327,Hardware,Cable,Cable,Actualizar
+328,Mover o agregar o cambiar,Hardware,Hardware,Sistema de alimentación
+329,Hardware,Conector de unidad,Conector de unidad,Actualizar
+330,Mover o agregar o cambiar,Hardware,Hardware,Memoria
+331,Hardware,Memoria,Memoria,Actualizar
+332,Seguridad,Infracción,Infracción,Vulnerabilidad
+333,Hardware,Memoria,Memoria,Actualizar
+334,Mover o agregar o cambiar,Hardware,Hardware,Otros
+335,Hardware,NIC,NIC,Actualizar
+336,Seguridad,Infracción,Infracción,Vulnerabilidad
+337,Software,Revisión,Revisión,Actualización de seguridad de Windows
+338,Hardware,NIC,NIC,Actualizar
+339,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Cambiar nombre de servidor
+340,Cambiar administración,Software,Software,Instalar o actualizar software
+341,Investigación,Software,Software,Instalar o actualizar software
+342,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,IPAK/revisión/seguridad
+343,Mover o agregar o cambiar,Hardware,Hardware,Otros
+344,Mover o agregar o cambiar,Hardware,Hardware,Cables
+345,Implementación,Dispositivo de red de retirada,Dispositivo de red de retirada,Configuración de red
+346,Mover o agregar o cambiar,Hardware,Hardware,Memoria
+347,Implementación,Dispositivo de red de retirada,Dispositivo de red de retirada,Retirada
+348,Mover o agregar o cambiar,Hardware,Hardware,Sistema de alimentación
+349,Implementación,Dispositivo de red de retirada,Dispositivo de red de retirada,Recibir
+350,Implementación,Dispositivo de red de retirada,Dispositivo de red de retirada,Actualización de la red
+351,Implementación,Servidor de retirada,Servidor de retirada,Deshabilitar copias de seguridad
+352,Mover o agregar o cambiar,Hardware,Hardware,Unidad de disco duro
+353,Implementación,Mover NetDevice,Mover NetDevice,Desactivar configuración de red
+354,Red,Hardware,Hardware,CSM
+355,Implementación,Mover NetDevice,Mover NetDevice,Retirada
+356,Red,Hardware,Hardware,Otros
+357,Implementación,Mover NetDevice,Mover NetDevice,RAP
+358,Mover o agregar o cambiar,Hardware,Hardware,Ventilador
+359,Implementación,Mover NetDevice,Mover NetDevice,Activar configuración de red
+360,Implementación,Mover NetDevice,Mover NetDevice,Actualización de la red
+361,Incidente,Hardware,Hardware,Controlador de la matriz (RAID)
+362,Implementación,Nuevo servidor (no estándar),Nuevo servidor (no estándar),Adquisición
+363,Mover o agregar o cambiar,Hardware,Hardware,NIC
+364,Implementación,Nuevo servidor (no estándar),Nuevo servidor (no estándar),RAP
+365,Implementación,Nuevo servidor (no estándar),Nuevo servidor (no estándar),Recibir
+366,Mover o agregar o cambiar,Hardware,Hardware,Controlador de la matriz (RAID)
+367,Red,Hardware,Hardware,BigIP
+368,Mover o agregar o cambiar,Hardware,Hardware,Canal de fibra
+369,Mover o agregar o cambiar,Hardware,Hardware,Memoria
+370,Mover o agregar o cambiar,Hardware,Hardware,Sistema de alimentación
+371,Incidente,Hardware,Hardware,Cable
+372,Mover o agregar o cambiar,Hardware,Hardware,Sistema de alimentación
+373,Mover o agregar o cambiar,Hardware,Hardware,NIC
+374,Incidente,Hardware,Hardware,Redes: NetScaler
+375,Red,Hardware,Hardware,Protección
+376,Incidente,Hardware,Hardware,Batería
+377,Mover o agregar o cambiar,Hardware,Hardware,Memoria
+378,Incidente,Hardware,Hardware,Conector de unidad
+379,Mantenimiento,Relacionado con código,Relacionado con código,Redes
+380,Incidente,Hardware,Hardware,Procesador
+381,Cambio/Mantenimiento,Revisión,Revisión,Controlado por cliente
+382,Incidente,Hardware,Hardware,SAN
+383,Mover o agregar o cambiar,Hardware,Hardware,NIC
+384,Incidente,Hardware,Hardware,Conmutador de SAN
+385,Incidente,Hardware,Hardware,Unidad de cinta
+386,Mantenimiento,Relacionado con código,Relacionado con código,Redes
+387,Mantenimiento,Relacionado con código,Relacionado con código,Grupo de productos
+388,Cambio/Mantenimiento,Configuración,Configuración,Cumplimiento
+389,Cambio/Mantenimiento,Configuración,Configuración,Controlado por cliente
+390,Mantenimiento,Relacionado con código,Relacionado con código,Seguridad
+391,Cambio/Mantenimiento,Configuración,Configuración,Dependencia
+392,Cambio/Mantenimiento,Revisión,Revisión,Dependencia
+393,Capacidad de la red,Dispositivo,Dispositivo,Memoria
+394,Configuración de red,Break-fix,Break-fix,Compatibilidad
+395,Solicitud,SO,SO,Espacio de unidad
+396,Solicitud,SO,SO,Problemas de rendimiento
+397,Capacidad de la red,Dispositivo,Dispositivo,Velocidad de conexión
+398,Seguridad,Infracción,Infracción,Vulnerabilidad
+399,Seguridad,Infracción,Infracción,Vulnerabilidad
+400,Solicitud,SO,SO,Solicitud de reinicio
+401,Configuración de red,Break-fix,Break-fix,Impacto esperado
+402,Solicitud,SO,SO,Problema de memoria
+403,Configuración de red,Break-fix,Break-fix,Proceso
+404,Solicitud,SO,SO,WMI
+405,Solicitud,Red,Red,Configuración de NLB
+406,Capacidad de la red,Dispositivo,Dispositivo,CPU
+407,Solicitud,Red,Red,Problemas de conectividad de red
+408,Solicitud,Problemas de hardware,Problemas de hardware,Errores de unidad
+409,Capacidad de la red,Dispositivo,Dispositivo,Otros componentes
+410,Solicitud,Problemas de hardware,Problemas de hardware,Power supply
+411,Incidente,SO,SO,Problemas de rendimiento
+412,Capacidad de la red,Dispositivo,Dispositivo,Backplane/Dispositivo
+413,Incidente,SO,SO,Problema IIS
+414,Cambio/Mantenimiento,Revisión,Revisión,Controlado por cliente
+415,Incidente,SO,SO,Reiniciar equipo
+416,Capacidad de la red,Dispositivo,Dispositivo,Conflicto de IP
+417,Incidente,SO,SO,Problema de memoria
+418,Configuración de red,Break-fix,Break-fix,Impacto inesperado
+419,Incidente,SO,SO,WMI
+420,Solicitud,Problemas de hardware,Problemas de hardware,Configuración de la unidad
+421,Configuración de red,Break-fix,Break-fix,Error humano
+422,Seguridad,Infracción,Infracción,Vulnerabilidad
+423,Seguridad,Infracción,Infracción,Vulnerabilidad
+424,Configuración de red,Break-fix,Break-fix,Otros
+425,Cambio/Mantenimiento,Revisión,Revisión,Cumplimiento
+426,Prueba de error de hardware de red,Prueba de error prop de hardware de red,Prueba de error prop de hardware de red,Prueba de error sub de hardware de red
+427,Mantenimiento,Desconocido,Desconocido,Socio de proveedor y externo
+428,Cambio/Mantenimiento,Configuración,Configuración,Cumplimiento
+429,Cambio/Mantenimiento,Configuración,Configuración,Controlado por cliente
+430,Cambio/Mantenimiento,Configuración,Configuración,Error humano
+431,Configuración de red,Break-fix,Break-fix,Herramientas
+432,Cambio/Mantenimiento,Revisión,Revisión,Dependencia
+433,Cambio/Mantenimiento,Revisión,Revisión,Cumplimiento
+434,Incidente,Hardware,Hardware,Módulo de E/S UME
+435,Cambiar administración,Software,Software,Instalar o actualizar software
+436,Red HM,Software,Software,Instalar o actualizar software
+437,Investigación,Software,Software,Instalar o actualizar software
+438,Incidente,Hardware,Hardware,Canal de fibra
+439,Incidente,Hardware,Hardware,Memoria
+440,Incidente,Hardware,Hardware,Placa base
+441,Mover o agregar o cambiar,Red,Red,Instalar dispositivo de red
+442,Incidente,Hardware,Hardware,Ventilador
+443,Mover o agregar o cambiar,Red,Red,Cambiar nombre y volver a asignar dispositivo
+444,Incidente,Hardware,Hardware,Unidad de disco duro
+445,Mover o agregar o cambiar,Red,Red,Reemplazar el dispositivo
+446,Mover o agregar o cambiar,Red,Red,Reemplazar componente de dispositivos
+447,Implementación,Nuevo servidor (no estándar),Nuevo servidor (no estándar),RAC
+448,Implementación,Nuevo servidor (estándar),Nuevo servidor (estándar),Adquisición
+449,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Agregar cuenta
+450,Implementación,Nuevo servidor (estándar),Nuevo servidor (estándar),Recibir
+451,Incidente,Hardware,Hardware,Firmware (ROM)
+452,Implementación,Nuevo servidor (estándar),Nuevo servidor (estándar),RAC
+453,Implementación,NetDevice RMA,NetDevice RMA,Retirada
+454,Mover o agregar o cambiar,Red,Red,Volver a asignar
+455,Implementación,NetDevice RMA,NetDevice RMA,Recibir
+456,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Otros
+457,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Apagar servidor
+458,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Actualizar SO
+459,Hardware,Otros - Servidor,Otros - Servidor,Actualizar
+460,Hardware,Otros - Servidor,Otros - Servidor,Actualizar
+461,Cambiar administración,Red,Red,Re IP
+462,Cambiar administración,Red,Red,Agregar nueva NIC
+463,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Actualizar ROMS / firmware del sistema
+464,Mover o agregar o cambiar,Hardware,Hardware,Unidad de disco duro
+465,Cambiar administración,Red,Red,Quitar NIC
+466,Hardware,Otros - Servidor,Otros - Servidor,Actualizar
+467,Hardware,Sistema de alimentación,Sistema de alimentación,Actualizar
+468,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Agregar cuenta
+469,Hardware,Procesador,Procesador,Actualizar
+470,Hardware,Procesador,Procesador,Actualizar
+471,Solicitud,Implementación,Implementación,Redes
+472,Seguridad,Cuenta de servicio,Cuenta de servicio,Otros
+473,Software,Aplicación de producto,Aplicación de producto,Otros problemas
+474,Software,Aplicación de producto,Aplicación de producto,Otros problemas
+475,Infraestructura,SMTP,SMTP,Interrupción
+476,Cambiar administración,Software,Software,Instalar o actualizar software
+477,Red HM,Software,Software,Instalar o actualizar software
+478,Investigación,Software,Software,Instalar o actualizar software
+479,Dispositivo de red,Enrutador,Enrutador,Vínculo Gigabit
+480,Dispositivo de red,Director local,Director local,Utilización de procedimientos
+481,Seguridad,Cuenta de usuario,Cuenta de usuario,Otros
+482,Dispositivo de red,Netscalar,Netscalar,Utilización de procedimientos
+483,Seguridad,Cuenta de usuario,Cuenta de usuario,Otros
+484,Hardware,Unidad de disco duro,Unidad de disco duro,Actualizar
+485,Hardware,Memoria,Memoria,Actualizar
+486,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Cambiar nombre de servidor
+487,Hardware,Unidad de cinta,Unidad de cinta,Error
+488,Seguridad,Acceso físico,Acceso físico,General
+489,Solicitud,Documentación,Documentación,Documentación de configuración de hardware
+490,Seguridad,Grupo,Grupo,Eliminación
+491,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,IPAK/revisión/seguridad
+492,Seguridad,Cuenta de servicio,Cuenta de servicio,Eliminación
+493,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Agregar cuenta
+494,Dispositivo de red,CSS,CSS,Conectividad
+495,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Otros
+496,Seguridad,Cuenta de usuario,Cuenta de usuario,Eliminación
+497,Solicitud,Cambiar administración,Cambiar administración,Solicitud de cambio de diseño
+498,Seguridad,Grupo,Grupo,Deshabilitar
+499,Dispositivo de red,Director local,Director local,Conectividad
+500,Seguridad,Cuenta de servicio,Cuenta de servicio,Deshabilitar
+501,Dispositivo de red,Netscalar,Netscalar,Conectividad
+502,Incidente,SO,SO,Incidente en reinicio
+503,Cambiar administración,Software,Software,Dominio
+504,Cambiar administración,Software,Software,Revisión
+505,Incidente,SO,SO,Problemas de rendimiento
+506,Incidente,SO,SO,Problema IIS
+507,Mover o agregar o cambiar,Red,Red,Cables
+508,Incidente,SO,SO,Problema de memoria
+509,Incidente,SO,SO,WMI
+510,Cambiar administración,Software,Software,Versión
+511,Hardware,Problemas de disco,Problemas de disco,espacio en disco limitado o sin espacio
+512,Hardware,Problemas de disco,Problemas de disco,Error RAID
+513,Cambiar administración,Software,Software,QFE
+514,Hardware,Problemas de disco,Problemas de disco,Error de SCSI
+515,Hardware,Problemas de disco,Problemas de disco,Error de disco del sistema
+516,Cambiar administración,Software,Software,Service Pack
+517,Hardware,Problemas de disco,Problemas de disco,Error de la unidad de cinta
+518,Hardware,hardware upgrade,hardware upgrade,Reversión de la versión de hardware
+519,Cambiar administración,Hardware,Hardware,NIC
+520,Dispositivo de red,Conmutador,Conmutador,Configurar VLAN
+521,Cambiar administración,Software,Software,Cambiar nombre de servidor
+522,Hardware,Problemas de disco,Problemas de disco,Error de servidor de disco
+523,Cambiar administración,Hardware,Hardware,Procesador
+524,Incidente,Hardware,Hardware,Sistema de alimentación
+525,Cambiar administración,Software,Software,Compilación del sistema operativo base
+526,Cambiar administración,Software,Software,IPAK
+527,Hardware,Problemas de disco,Problemas de disco,Error del disco de datos
+528,Cambiar administración,POS,POS,SQL
+529,Cambiar administración,Software,Software,CRS
+530,Dispositivo de red,Conmutador,Conmutador,Configurar VLAN
+531,Cambiar administración,Software,Software,Aplicación no estándar
+532,Cambiar administración,Software,Software,SMTP
+533,Implementación,NetDevice RMA,NetDevice RMA,Actualización de la red
+534,Cambiar administración,Software,Software,ROM
+535,Cambiar administración,Red,Red,Volver a asignar
+536,Cambiar administración,Red,Red,Re IP
+537,Cambiar administración,Red,Red,Agregar nueva NIC
+538,Implementación,NetDevice RMA,NetDevice RMA,Implementación de la configuración de red
+539,Cambiar administración,Red,Red,Quitar NIC
+540,Cambiar administración,Red,Red,Equipo de bastidor o cable de red
+541,Mover o agregar o cambiar,Copia de seguridad y restauración,Copia de seguridad y restauración,Administración de la cinta
+542,Cambiar administración,Red,Red,Etiqueta
+543,Cambiar administración,Red,Red,Retirada
+544,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Cambiar nombre de servidor
+545,Cambiar administración,Cuenta de dominio,Cuenta de dominio,Crear
+546,Cambiar administración,Cuenta de dominio,Cuenta de dominio,Eliminar
+547,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,IPAK/revisión/seguridad
+548,Cambiar administración,Cuenta de dominio,Cuenta de dominio,Modificar
+549,Cambiar administración,Hardware,Hardware,Otros
+550,Cambiar administración,Red,Red,ACL
+551,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Otros
+552,Cambiar administración,Red,Red,Adición o eliminación de DNS
+553,Cambiar administración,Software,Software,Revisión de código
+554,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Agregar cuenta
+555,Seguridad,Infracción,Infracción,Vulnerabilidad
+556,Incidente,Hardware,Hardware,Sistema de alimentación
+557,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Apagar servidor
+558,Mover o agregar o cambiar,Administración de configuración,Administración de configuración,Volver a generar
+559,Implementación,POS,POS,Deshabilitar la supervisión de SQL
+560,Implementación,Servidor de retirada,Servidor de retirada,Transporte
+561,Mover o agregar o cambiar,Hardware,Hardware,Otros
+562,Mover o agregar o cambiar,Red,Red,Dispositivo de retirada
+563,Implementación,Servidor de retirada,Servidor de retirada,Retirada
+564,Mover o agregar o cambiar,Red,Red,Instalar componente de dispositivo
+565,Incidente,Hardware,Hardware,NIC
+566,Solicitud,SO,SO,Problema de memoria
+567,Incidente,Hardware,Hardware,Otros - Servidor
+568,Seguridad,Infracción,Infracción,Vulnerabilidad
+569,Solicitud,SO,SO,reboot request
+570,Error de red,Concentrador,Concentrador,Red no disponible
+571,Error de red,Servidor,Servidor,Red no disponible
+572,Error de red,Enrutador,Enrutador,Red no disponible
+573,Error de red,POS,POS,Red no disponible
+574,Error de SO,Servidor,Servidor,Virus
+575,Error de SO,Enrutador,Enrutador,Actualizar sistema operativo
+576,Error de SO,POS,POS,Actualizar sistema operativo
+577,Error de la base de datos,POS,POS,Actualizar software
+578,Error de la base de datos,POS,POS,Restaurar datos
+579,Error de la placa base,Servidor,Servidor,Cambiar nuevo servidor
+580,Error de la placa base,POS,POS,Cambiar nuevo PDV
+581,Error de la placa base,Enrutador,Enrutador,Cambiar nuevo enrutador
+582,Error de la CPU,Servidor,Servidor,Cambiar nueva CPU
+583,Error de la CPU,POS,POS,Cambiar nueva CPU
+584,Error de la CPU,Enrutador,Enrutador,Cambiar nueva CPU
+585,Error de RAM,Servidor,Servidor,Cambiar nueva RAM
+586,Error de RAM,POS,POS,Cambiar nueva RAM
+587,Error de RAM,Enrutador,Enrutador,Cambiar nueva RAM
+588,Error de disco ,Servidor,Servidor,Cambiar nuevo disco
+589,Error de disco ,POS,POS,Cambiar nuevo disco
+590,Error de disco ,Enrutador,Enrutador,Cambiar nuevo disco
+591,Alimentación del concentrador desconectada,Concentrador,Concentrador,Cambiar concentrador
+592,Error de adaptador de red,Servidor,Servidor,Cambiar adaptador de red
+593,Error de adaptador de red,Enrutador,Enrutador,Cambiar adaptador de red
+594,Error de adaptador de red,POS,POS,Cambiar adaptador de red
+595,La luz de puerto de concentrador parpadea,Concentrador,Concentrador,Cambiar concentrador

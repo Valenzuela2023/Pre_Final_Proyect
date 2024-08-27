@@ -1,0 +1,675 @@
+GeographyKey,GeographyTypeKey,GeographyType,ContinentName,CityName,StateProvinceName,RegionCountryName
+1,1,Continente,Asia,,,
+2,1,Continente,Europa,,,
+3,1,Continente,América del Norte,,,
+269,2,País o región,Asia,,,Armenia
+270,2,País o región,Asia,,,Australia
+271,2,País o región,Asia,,,Bután
+272,2,País o región,Asia,,,China
+273,2,País o región,Asia,,,India
+274,2,País o región,Asia,,,Irán
+275,2,País o región,Asia,,,Japón
+276,2,País o región,Asia,,,Kirguistán
+277,2,País o región,Asia,,,Pakistán
+278,2,País o región,Asia,,,Singapur
+279,2,País o región,Asia,,,Corea del Sur
+280,2,País o región,Asia,,,Siria
+281,2,País o región,Asia,,,Taiwán
+282,2,País o región,Asia,,,Tailandia
+283,2,País o región,Asia,,,Turkmenistán
+284,2,País o región,Europa,,,Dinamarca       
+285,2,País o región,Europa,,,Francia
+286,2,País o región,Europa,,,Alemania 
+287,2,País o región,Europa,,,Grecia 
+288,2,País o región,Europa,,,los Países Bajos
+289,2,País o región,Europa,,,Irlanda 
+290,2,País o región,Europa,,,Italia    
+291,2,País o región,Europa,,,Malta
+292,2,País o región,Europa,,,Polonia 
+293,2,País o región,Europa,,,Portugal
+294,2,País o región,Europa,,,Rumania 
+295,2,País o región,Europa,,,Rusia
+296,2,País o región,Europa,,,Eslovenia
+297,2,País o región,Europa,,,España
+298,2,País o región,Europa,,,Suecia 
+299,2,País o región,Europa,,,Suiza 
+300,2,País o región,Europa,,,Reino Unido
+301,2,País o región,América del Norte,,,Canadá
+302,2,País o región,América del Norte,,,Estados Unidos
+303,3,Estado o provincia,Asia,,Provincia de Ahal,Turkmenistán
+304,3,Estado o provincia,Asia,,Armenia,Armenia
+305,3,Estado o provincia,Asia,,Pekín,China
+306,3,Estado o provincia,Asia,,Chubu,Japón
+307,3,Estado o provincia,Asia,,Provincia chuy,Kirguistán
+308,3,Estado o provincia,Asia,,Damasco,Siria
+309,3,Estado o provincia,Asia,,GuangDong,China
+310,3,Estado o provincia,Asia,,Hokkaido,Japón
+311,3,Estado o provincia,Asia,,Hong Kong,China
+312,3,Estado o provincia,Asia,,Territorio de la capital de Islamabad,Pakistán
+313,3,Estado o provincia,Asia,,Kansai,Japón
+314,3,Estado o provincia,Asia,,Kanto,Japón
+315,3,Estado o provincia,Asia,,Krung Thep,Tailandia
+316,3,Estado o provincia,Asia,,Maharastra,India
+317,3,Estado o provincia,Asia,,Molonglo,Australia
+318,3,Estado o provincia,Asia,,Territorio de la capital de nacionales de Delhi,India
+319,3,Estado o provincia,Asia,,Nueva Gales del Sur,Australia
+320,3,Estado o provincia,Asia,,Seúl jikhalsi,Corea del Sur
+321,3,Estado o provincia,Asia,,Shanghai,China
+322,3,Estado o provincia,Asia,,Singapur,Singapur
+323,3,Estado o provincia,Asia,,Taiwán,Taiwán
+324,3,Estado o provincia,Asia,,Teherán,Irán
+325,3,Estado o provincia,Asia,,Distrito de Thimphu,Bután
+326,3,Estado o provincia,Asia,,Tohoku,Japón
+327,3,Estado o provincia,Asia,,Bengala Occidental,India
+328,3,Estado o provincia,Asia,,Xinjiang,China
+329,3,Estado o provincia,Asia,,Yeongnam,Corea del Sur
+330,3,Estado o provincia,Europa,,Alpes Maritimes,Francia
+331,3,Estado o provincia,Europa,,BAS-Rhin,Francia
+332,3,Estado o provincia,Europa,,Bavaria,Alemania 
+333,3,Estado o provincia,Europa,,Bayern,Alemania 
+334,3,Estado o provincia,Europa,,Berlín,Alemania 
+335,3,Estado o provincia,Europa,,Berna,Suiza 
+336,3,Estado o provincia,Europa,,Bucuresti,Rumania 
+337,3,Estado o provincia,Europa,,Grecia central y Evvoia,Grecia 
+338,3,Estado o provincia,Europa,,Inglaterra ,Reino Unido
+339,3,Estado o provincia,Europa,,Hesse,Alemania 
+340,3,Estado o provincia,Europa,,Ile-del-France,Francia
+341,3,Estado o provincia,Europa,,Leinster,Irlanda 
+342,3,Estado o provincia,Europa,,Región de Lisboa,Portugal
+343,3,Estado o provincia,Europa,,Liubliana,Eslovenia
+344,3,Estado o provincia,Europa,,Lombardia,Italia    
+345,3,Estado o provincia,Europa,,Madrid,España
+346,3,Estado o provincia,Europa,,Midi-Pyrenees,Francia
+347,3,Estado o provincia,Europa,,Moskovskaya oblast,Rusia
+348,3,Estado o provincia,Europa,,Nizhny Novgorod Oblast,Rusia
+349,3,Estado o provincia,Europa,,Noord Holanda,los Países Bajos
+350,3,Estado o provincia,Europa,,Nordrhein-Westfalen,Alemania 
+351,3,Estado o provincia,Europa,,North Rhine-Westphalia,Alemania 
+352,3,Estado o provincia,Europa,,Northwestern,Rusia
+353,3,Estado o provincia,Europa,,Pays de la Loire,Francia
+354,3,Estado o provincia,Europa,,Provence-Alpes-Côte d'Azur,Francia
+355,3,Estado o provincia,Europa,,Provincia de Florencia,Italia    
+356,3,Estado o provincia,Europa,,Provincia de Turín,Italia    
+357,3,Estado o provincia,Europa,,Rhineland-Palatinate,Alemania 
+358,3,Estado o provincia,Europa,,Rhone-Alpes ,Francia
+359,3,Estado o provincia,Europa,,Roma,Italia    
+360,3,Estado o provincia,Europa,,Escocia,Reino Unido
+361,3,Estado o provincia,Europa,,Staden Kobenhavn,Dinamarca       
+362,3,Estado o provincia,Europa,,Stockholms,Suecia 
+363,3,Estado o provincia,Europa,,Valletta,Malta
+364,3,Estado o provincia,Europa,,Venecia,Italia    
+365,3,Estado o provincia,Europa,,Varsovia,Polonia 
+366,3,Estado o provincia,América del Norte,,Alaska,Estados Unidos
+367,3,Estado o provincia,América del Norte,,Alberta,Canadá
+368,3,Estado o provincia,América del Norte,,Columbia Británica,Canadá
+369,3,Estado o provincia,América del Norte,,Colorado,Estados Unidos
+370,3,Estado o provincia,América del Norte,,Connecticut,Estados Unidos
+371,3,Estado o provincia,América del Norte,,Florida,Estados Unidos
+372,3,Estado o provincia,América del Norte,,Maine,Estados Unidos
+373,3,Estado o provincia,América del Norte,,Maryland,Estados Unidos
+374,3,Estado o provincia,América del Norte,,Massachusetts,Estados Unidos
+375,3,Estado o provincia,América del Norte,,New Jersey,Estados Unidos
+376,3,Estado o provincia,América del Norte,,Nueva York,Estados Unidos
+377,3,Estado o provincia,América del Norte,,Ontario,Canadá
+378,3,Estado o provincia,América del Norte,,Quebec,Canadá
+379,3,Estado o provincia,América del Norte,,Carolina del Sur,Estados Unidos
+380,3,Estado o provincia,América del Norte,,Texas,Estados Unidos
+381,3,Estado o provincia,América del Norte,,Virginia,Estados Unidos
+382,3,Estado o provincia,América del Norte,,Washington,Estados Unidos
+383,3,Estado o provincia,América del Norte,,Wisconsin,Estados Unidos
+384,3,Estado o provincia,Asia,,Tasmania,Australia
+385,3,Estado o provincia,Europa,,Hesse,Alemania
+386,3,Estado o provincia,América del Norte,,Mississippi,Estados Unidos
+387,3,Estado o provincia,Europa,,Essonne,Francia
+388,3,Estado o provincia,Europa,,Hamburgo,Alemania
+389,3,Estado o provincia,Europa,,Hauts de Seine,Francia
+390,3,Estado o provincia,América del Norte,,Ohio,Estados Unidos
+391,3,Estado o provincia,Europa,,Red de tiro a Denis de SAN,Francia
+392,3,Estado o provincia,América del Norte,,Alabama,Estados Unidos
+393,3,Estado o provincia,Europa,,Garonne (Haute),Francia
+394,3,Estado o provincia,América del Norte,,Arizona,Estados Unidos
+395,3,Estado o provincia,Europa,,PAS de Calais,Francia
+396,3,Estado o provincia,América del Norte,,Carolina del Norte,Estados Unidos
+397,3,Estado o provincia,América del Norte,,Minnesota,Estados Unidos
+398,3,Estado o provincia,Europa,,Yveline,Francia
+399,3,Estado o provincia,Europa,,Loiret,Francia
+400,3,Estado o provincia,Europa,,Norte,Francia
+401,3,Estado o provincia,América del Norte,,Wyoming,Estados Unidos
+402,3,Estado o provincia,Europa,,Red de tiro (París),Francia
+403,3,Estado o provincia,Europa,,Val de Marne,Francia
+404,3,Estado o provincia,Europa,,Brandemburgo,Alemania
+405,3,Estado o provincia,Europa,,Val d'Oise,Francia
+406,3,Estado o provincia,América del Norte,,Kentucky,Estados Unidos
+407,3,Estado o provincia,Asia,,Queensland,Australia
+408,3,Estado o provincia,América del Norte,,Illinois,Estados Unidos
+409,3,Estado o provincia,América del Norte,,Utah,Estados Unidos
+410,3,Estado o provincia,Europa,,Red de tiro et Marne,Francia
+411,3,Estado o provincia,América del Norte,,Oregon,Estados Unidos
+412,3,Estado o provincia,Asia,,Australia del Sur,Australia
+413,3,Estado o provincia,Europa,,Somme,Francia
+414,3,Estado o provincia,Europa,,Loir et Cher,Francia
+415,3,Estado o provincia,América del Norte,,Montana,Estados Unidos
+416,3,Estado o provincia,Europa,,Charente-Maritime,Francia
+417,3,Estado o provincia,América del Norte,,California,Estados Unidos
+418,3,Estado o provincia,Europa,,Moselle,Francia
+419,3,Estado o provincia,Europa,,Sarre,Alemania
+420,3,Estado o provincia,Asia,,Victoria,Australia
+421,3,Estado o provincia,América del Norte,,Missouri,Estados Unidos
+422,3,Estado o provincia,América del Norte,,Georgia,Estados Unidos
+423,4,Ciudad,Europa,Hants Basingstoke,Inglaterra,Reino Unido
+424,4,Ciudad,América del Norte,Bellevue,Washington,Estados Unidos
+425,4,Ciudad,Asia,Bendigo,Victoria,Australia
+426,4,Ciudad,Europa,Berks,Inglaterra,Reino Unido
+430,4,Ciudad,América del Norte,Beverly Hills,California,Estados Unidos
+431,4,Ciudad,América del Norte,Facturación,Montana,Estados Unidos
+432,4,Ciudad,América del Norte,Biloxi,Mississippi,Estados Unidos
+433,4,Ciudad,América del Norte,Barcelona,Alabama,Estados Unidos
+434,4,Ciudad,América del Norte,Bluffton,Carolina del Sur,Estados Unidos
+435,4,Ciudad,Europa,Bobigny,Red de tiro a Denis de SAN,Francia
+436,4,Ciudad,América del Norte,Bothell,Washington,Estados Unidos
+437,4,Ciudad,Europa,Bottrop,North Rhine-Westphalia,Alemania
+438,4,Ciudad,América del Norte,Bountiful,Utah,Estados Unidos
+439,4,Ciudad,Europa,Bracknell,Inglaterra,Reino Unido
+440,4,Ciudad,América del Norte,Braintree,Massachusetts,Estados Unidos
+441,4,Ciudad,América del Norte,Branson,Missouri,Estados Unidos
+442,4,Ciudad,América del Norte,Bremerton,Washington,Estados Unidos
+443,4,Ciudad,América del Norte,Burbank,California,Estados Unidos
+444,4,Ciudad,América del Norte,Burbank,Ohio,Estados Unidos
+445,4,Ciudad,América del Norte,Burlingame,California,Estados Unidos
+446,4,Ciudad,América del Norte,Burnaby,Columbia Británica,Canadá
+447,4,Ciudad,Europa,Enterrar,Inglaterra,Reino Unido
+448,4,Ciudad,América del Norte,Byron,Georgia,Estados Unidos
+449,4,Ciudad,Europa,Cambridge,Inglaterra,Reino Unido
+450,4,Ciudad,América del Norte,Campbellsville,Kentucky,Estados Unidos
+451,4,Ciudad,América del Norte,Carol Stream,Illinois,Estados Unidos
+452,4,Ciudad,América del Norte,Carrollton,Texas,Estados Unidos
+453,4,Ciudad,América del Norte,Cedar Park,Texas,Estados Unidos
+454,4,Ciudad,Europa,Cergy,Val d'Oise,Francia
+455,4,Ciudad,América del Norte,Cerritos,California,Estados Unidos
+456,4,Ciudad,América del Norte,Río de tiza,Ontario,Canadá
+457,4,Ciudad,América del Norte,Chantilly,Virginia,Estados Unidos
+458,4,Ciudad,América del Norte,Charlotte,Carolina del Norte,Estados Unidos
+459,4,Ciudad,Europa,Chatou,Yveline,Francia
+460,4,Ciudad,América del Norte,Chehalis,Washington,Estados Unidos
+461,4,Ciudad,América del Norte,Cheyenne,Wyoming,Estados Unidos
+462,4,Ciudad,América del Norte,Cincinnati,Ohio,Estados Unidos
+463,4,Ciudad,América del Norte,Ciudad de Commerce,California,Estados Unidos
+464,4,Ciudad,América del Norte,Clarkston,Georgia,Estados Unidos
+465,4,Ciudad,América del Norte,Pedro,Nueva York,Estados Unidos
+466,4,Ciudad,América del Norte,Clearwater,Florida,Estados Unidos
+467,4,Ciudad,América del Norte,Cliffside,Columbia Británica,Canadá
+468,4,Ciudad,Asia,Harbour Coffs,Nueva Gales del Sur,Australia
+469,4,Ciudad,América del Norte,Colma,California,Estados Unidos
+470,4,Ciudad,América del Norte,Concord,California,Estados Unidos
+471,4,Ciudad,Asia,Cranbourne,Victoria,Australia
+472,4,Ciudad,América del Norte,Ciudad Daly,California,Estados Unidos
+473,4,Ciudad,Asia,Darlinghurst,Nueva Gales del Sur,Australia
+474,4,Ciudad,Europa,Darmstadt,Hesse,Alemania
+475,4,Ciudad,América del Norte,Downey,California,Estados Unidos
+476,4,Ciudad,Europa,Drancy,Red de tiro a Denis de SAN,Francia
+478,4,Ciudad,Asia,Brisbane oriental,Queensland,Australia
+479,4,Ciudad,América del Norte,Edmonds,Washington,Estados Unidos
+480,4,Ciudad,Europa,Eilenburg,Sajonia,Alemania
+481,4,Ciudad,Europa,Esher Molesey,Inglaterra,Reino Unido
+482,4,Ciudad,Europa,Essen,North Rhine-Westphalia,Alemania
+483,4,Ciudad,Europa,Frankfurt,Hesse,Alemania
+485,4,Ciudad,Europa,Gateshead,Inglaterra,Reino Unido
+486,4,Ciudad,Europa,Gloucestershire,Inglaterra,Reino Unido
+487,4,Ciudad,Asia,Gold Coast,Queensland,Australia
+488,4,Ciudad,América del Norte,Grossmont,California,Estados Unidos
+490,4,Ciudad,América del Norte,Haney,Columbia Británica,Canadá
+491,4,Ciudad,Europa,Hannover,Sajonia inferior,Alemania
+492,4,Ciudad,Asia,Hervey Bay,Queensland,Australia
+493,4,Ciudad,Asia,Hobart,Tasmania,Australia
+494,4,Ciudad,América del Norte,Beach imperial,California,Estados Unidos
+495,4,Ciudad,América del Norte,Issaquah,Washington,Estados Unidos
+496,4,Ciudad,Europa,Kiel,Schleswig-Holstein,Alemania
+497,4,Ciudad,Europa,Kirkby,Inglaterra,Reino Unido
+498,4,Ciudad,Europa,Lancaster,Inglaterra,Reino Unido
+499,4,Ciudad,América del Norte,Langley,Columbia Británica,Canadá
+500,4,Ciudad,América del Norte,Líbano,Oregon,Estados Unidos
+501,4,Ciudad,Europa,Leeds,Inglaterra,Reino Unido
+502,4,Ciudad,América del Norte,Limón Grove,California,Estados Unidos
+503,4,Ciudad,Europa,Les Ulis,Essonne,Francia
+504,4,Ciudad,Europa,Lieusaint,Red de tiro et Marne,Francia
+505,4,Ciudad,América del Norte,Acres Lincoln,California,Estados Unidos
+506,4,Ciudad,Europa,Londres,Inglaterra,Reino Unido
+507,4,Ciudad,América del Norte,Lynnwood,Washington,Estados Unidos
+508,4,Ciudad,América del Norte,Marysville,Washington,Estados Unidos
+509,4,Ciudad,Asia,Matraville,Nueva Gales del Sur,Australia
+510,4,Ciudad,Asia,Melton,Victoria,Australia
+511,4,Ciudad,América del Norte,Metchosin,Columbia Británica,Canadá
+512,4,Ciudad,Asia,Punto Milsons,Nueva Gales del Sur,Australia
+513,4,Ciudad,Europa,Mühlheim estoy principal,Hesse,Alemania
+515,4,Ciudad,Europa,Munster,North Rhine-Westphalia,Alemania
+516,4,Ciudad,América del Norte,Ciudad de National,California,Estados Unidos
+517,4,Ciudad,Europa,Neunkirchen,North Rhine-Westphalia,Alemania
+518,4,Ciudad,Asia,Newcastle,Nueva Gales del Sur,Australia
+519,4,Ciudad,Asia,Ryde Norte,Nueva Gales del Sur,Australia
+520,4,Ciudad,América del Norte,Oakland,California,Estados Unidos
+521,4,Ciudad,Europa,Offenbach estoy principal,Hesse,Alemania
+522,4,Ciudad,América del Norte,Olympia,Washington,Estados Unidos
+523,4,Ciudad,América del Norte,Ciudad de Oregón,Oregon,Estados Unidos
+524,4,Ciudad,Europa,Sólo,Val de Marne,Francia
+525,4,Ciudad,Europa,Oxford,Inglaterra,Reino Unido
+527,4,Ciudad,América del Norte,Palo Alto,California,Estados Unidos
+528,4,Ciudad,Europa,Pantin,Red de tiro a Denis de SAN,Francia
+529,4,Ciudad,Europa,París,Red de tiro (París),Francia
+530,4,Ciudad,Europa,París La Defense,Hauts de Seine,Francia
+531,4,Ciudad,Asia,Perth,Australia del Sur,Australia
+532,4,Ciudad,Europa,Peterborough,Inglaterra,Reino Unido
+533,4,Ciudad,Europa,Poing,Bavaria,Alemania
+534,4,Ciudad,Asia,Puerto Macquarie,Nueva Gales del Sur,Australia
+535,4,Ciudad,América del Norte,Huerto de puerto,Washington,Estados Unidos
+536,4,Ciudad,América del Norte,Portland,Oregon,Estados Unidos
+537,4,Ciudad,América del Norte,Puyallup,Washington,Estados Unidos
+538,4,Ciudad,América del Norte,Redwood City,California,Estados Unidos
+539,4,Ciudad,Europa,Roncq,Norte,Francia
+540,4,Ciudad,Europa,Roubaix,Norte,Francia
+541,4,Ciudad,Europa,Runcorn,Inglaterra,Reino Unido
+542,4,Ciudad,Europa,Saarlouis,Sarre,Alemania
+543,4,Ciudad,Europa,En SAN Germain Laye,Yveline,Francia
+544,4,Ciudad,Europa,Saint Ouen,Somme,Francia
+545,4,Ciudad,Europa,Saint-Denis,Red de tiro a Denis de SAN,Francia
+546,4,Ciudad,América del Norte,SAN Carlos,California,Estados Unidos
+547,4,Ciudad,América del Norte,Santa Pablo,California,Estados Unidos
+548,4,Ciudad,Europa,Sèvres,Hauts de Seine,Francia
+549,4,Ciudad,Asia,Silverwater,Nueva Gales del Sur,Australia
+550,4,Ciudad,América del Norte,Sooke,Columbia Británica,Canadá
+551,4,Ciudad,América del Norte,Spokane,Washington,Estados Unidos
+552,4,Ciudad,América del Norte,Primavera Valley,California,Estados Unidos
+553,4,Ciudad,Asia,Springwood,Nueva Gales del Sur,Australia
+554,4,Ciudad,Asia,St.Leonards,Nueva Gales del Sur,Australia
+555,4,Ciudad,Europa,Stuttgart,Baden-Wuertemberg,Alemania
+556,4,Ciudad,Europa,Sulzbach Taunus,Sarre,Alemania
+557,4,Ciudad,Europa,Suresnes,Hauts de Seine,Francia
+558,4,Ciudad,Asia,Sidney,Nueva Gales del Sur,Australia
+559,4,Ciudad,América del Norte,Tacoma,Washington,Estados Unidos
+560,4,Ciudad,América del Norte,Torrance,California,Estados Unidos
+561,4,Ciudad,Asia,Townsville,Queensland,Australia
+562,4,Ciudad,América del Norte,Vancouver,Columbia Británica,Canadá
+563,4,Ciudad,Europa,Verrieres Le Buisson,Essonne,Francia
+564,4,Ciudad,Europa,Versailles,Yveline,Francia
+565,4,Ciudad,Europa,W.York,Inglaterra,Reino Unido
+566,4,Ciudad,América del Norte,Walla Walla,Washington,Estados Unidos
+567,4,Ciudad,Europa,Warrington,Inglaterra,Reino Unido
+568,4,Ciudad,Asia,Warrnambool,Victoria,Australia
+569,4,Ciudad,Europa,Werne,North Rhine-Westphalia,Alemania
+570,4,Ciudad,América del Norte,West Covina,California,Estados Unidos
+571,4,Ciudad,América del Norte,Westminster,Columbia Británica,Canadá
+572,4,Ciudad,Europa,Wokingham,Inglaterra,Reino Unido
+573,4,Ciudad,América del Norte,Woodburn,Oregon,Estados Unidos
+574,4,Ciudad,Europa,Woolston,Inglaterra,Reino Unido
+575,4,Ciudad,América del Norte,Yakima,Washington,Estados Unidos
+576,4,Ciudad,Europa,York,Inglaterra,Reino Unido
+577,4,Ciudad,América del Norte,Ballard,Washington,Estados Unidos
+578,4,Ciudad,América del Norte,Barstow,California,Estados Unidos
+579,4,Ciudad,América del Norte,Baytown,Texas,Estados Unidos
+580,4,Ciudad,América del Norte,Beaverton,Oregon,Estados Unidos
+581,4,Ciudad,América del Norte,Bell hospedaje en una única máquina,California,Estados Unidos
+582,4,Ciudad,América del Norte,Bellflower,California,Estados Unidos
+583,4,Ciudad,América del Norte,Aranjuez,Washington,Estados Unidos
+584,4,Ciudad,América del Norte,Berkeley,California,Estados Unidos
+585,4,Ciudad,Europa,Condado de Berkshire,Inglaterra,Reino Unido
+586,4,Ciudad,Europa,Berlín,Berlín,Alemania
+587,4,Ciudad,Europa,Billericay,Inglaterra,Reino Unido
+588,4,Ciudad,Europa,Barcelona,Inglaterra,Reino Unido
+590,4,Ciudad,Europa,Bonn,North Rhine-Westphalia,Alemania
+591,4,Ciudad,Europa,Boulogne-Billancourt,Hauts de Seine,Francia
+592,4,Ciudad,Europa,Boulogne-sur-Mer,PAS de Calais,Francia
+593,4,Ciudad,América del Norte,Bradenton,Florida,Estados Unidos
+594,4,Ciudad,América del Norte,Rama,Minnesota,Estados Unidos
+595,4,Ciudad,Europa,Brunswick,Sajonia inferior,Alemania
+596,4,Ciudad,Asia,Brisbane,Queensland,Australia
+597,4,Ciudad,América del Norte,Burien,Washington,Estados Unidos
+598,4,Ciudad,América del Norte,Calgary,Alberta,Canadá
+599,4,Ciudad,Asia,Caloundra,Queensland,Australia
+600,4,Ciudad,América del Norte,Camarillo,California,Estados Unidos
+601,4,Ciudad,América del Norte,Canoga Park,California,Estados Unidos
+602,4,Ciudad,América del Norte,Carson,California,Estados Unidos
+603,4,Ciudad,América del Norte,Casper,Wyoming,Estados Unidos
+604,4,Ciudad,América del Norte,Ciudad de cedro,Utah,Estados Unidos
+605,4,Ciudad,América del Norte,Central Valley,Nueva York,Estados Unidos
+606,4,Ciudad,América del Norte,Chandler,Arizona,Estados Unidos
+607,4,Ciudad,América del Norte,Cheektowaga,Nueva York,Estados Unidos
+608,4,Ciudad,Europa,Cheltenham,Inglaterra,Reino Unido
+609,4,Ciudad,América del Norte,Chicago,Illinois,Estados Unidos
+610,4,Ciudad,América del Norte,Vista chula,California,Estados Unidos
+611,4,Ciudad,América del Norte,Alto de cítricos,California,Estados Unidos
+612,4,Ciudad,América del Norte,Clackamas,Oregon,Estados Unidos
+613,4,Ciudad,Asia,Cloverdale,Australia del Sur,Australia
+614,4,Ciudad,América del Norte,College Station,Texas,Estados Unidos
+615,4,Ciudad,Europa,Colombes,Hauts de Seine,Francia
+616,4,Ciudad,Europa,Colomiers,Garonne (Haute),Francia
+617,4,Ciudad,América del Norte,Columbus,Georgia,Estados Unidos
+618,4,Ciudad,América del Norte,Columbus,Ohio,Estados Unidos
+619,4,Ciudad,América del Norte,Coronado,California,Estados Unidos
+620,4,Ciudad,América del Norte,Corvallis,Oregon,Estados Unidos
+621,4,Ciudad,Europa,Courbevoie,Hauts de Seine,Francia
+622,4,Ciudad,Europa,Croix,Norte,Francia
+623,4,Ciudad,Europa,Dresden,Sajonia,Alemania
+624,4,Ciudad,Europa,Dunkerque,Norte,Francia
+625,4,Ciudad,América del Norte,El Cajon,California,Estados Unidos
+626,4,Ciudad,Europa,Erlangen,Bavaria,Alemania
+627,4,Ciudad,América del Norte,Everett,Washington,Estados Unidos
+628,4,Ciudad,Asia,Findon,Australia del Sur,Australia
+629,4,Ciudad,Europa,Frankfurt,Bavaria,Alemania
+631,4,Ciudad,América del Norte,Fremont,California,Estados Unidos
+632,4,Ciudad,Asia,Geelong,Victoria,Australia
+633,4,Ciudad,América del Norte,Glendale,California,Estados Unidos
+634,4,Ciudad,Asia,Goulburn,Nueva Gales del Sur,Australia
+635,4,Ciudad,Europa,Grevenbroich,North Rhine-Westphalia,Alemania
+637,4,Ciudad,Asia,Hawthorne,Queensland,Australia
+638,4,Ciudad,Europa,Alto wycombe,Inglaterra,Reino Unido
+639,4,Ciudad,Europa,Hof,Bavaria,Alemania
+640,4,Ciudad,Europa,Ingolstadt,Bavaria,Alemania
+641,4,Ciudad,Europa,Kassel,Hesse,Alemania
+642,4,Ciudad,América del Norte,Kirkland,Washington,Estados Unidos
+643,4,Ciudad,América del Norte,La Jolla,California,Estados Unidos
+644,4,Ciudad,América del Norte,Lago Oswego,Oregon,Estados Unidos
+645,4,Ciudad,América del Norte,Lakewood,California,Estados Unidos
+646,4,Ciudad,Asia,LANE Cove,Nueva Gales del Sur,Australia
+647,4,Ciudad,América del Norte,Langford,Columbia Británica,Canadá
+648,4,Ciudad,Asia,Bahía de lavanda,Nueva Gales del Sur,Australia
+649,4,Ciudad,Europa,Leipzig,Sajonia,Alemania
+650,4,Ciudad,Europa,Lille,Norte,Francia
+651,4,Ciudad,Europa,Liverpool,Inglaterra,Reino Unido
+652,4,Ciudad,América del Norte,Long Beach,California,Estados Unidos
+653,4,Ciudad,América del Norte,Los Ángeles,California,Estados Unidos
+654,4,Ciudad,Europa,Maidenhead,Inglaterra,Reino Unido
+655,4,Ciudad,Asia,Malabar,Nueva Gales del Sur,Australia
+656,4,Ciudad,Asia,Melbourne,Victoria,Australia
+657,4,Ciudad,Europa,Metz,Moselle,Francia
+658,4,Ciudad,América del Norte,Fresado Valley,California,Estados Unidos
+659,4,Ciudad,Europa,Milton Keynes,Inglaterra,Reino Unido
+660,4,Ciudad,América del Norte,Milwaukie,Oregon,Estados Unidos
+661,4,Ciudad,Europa,Morangis,Essonne,Francia
+662,4,Ciudad,Europa,Hamburgo,Hamburgo,Alemania
+664,4,Ciudad,Europa,Mönchengladbach,North Rhine-Westphalia,Alemania
+665,4,Ciudad,América del Norte,N.Vancouver,Columbia Británica,Canadá
+666,4,Ciudad,Europa,Newcastle upon Tyne,Inglaterra,Reino Unido
+667,4,Ciudad,América del Norte,Newport Beach,California,Estados Unidos
+668,4,Ciudad,América del Norte,Newton,Columbia Británica,Canadá
+669,4,Ciudad,Asia,Norte de Sydney,Nueva Gales del Sur,Australia
+670,4,Ciudad,América del Norte,Novato,California,Estados Unidos
+671,4,Ciudad,América del Norte,Bahía de roble,Columbia Británica,Canadá
+672,4,Ciudad,Europa,Orleans,Loiret,Francia
+673,4,Ciudad,Europa,Oxon,Inglaterra,Reino Unido
+674,4,Ciudad,Europa,Paderborn,North Rhine-Westphalia,Alemania
+675,4,Ciudad,América del Norte,Puerto García,Columbia Británica,Canadá
+676,4,Ciudad,Europa,Lectura,Inglaterra,Reino Unido
+677,4,Ciudad,América del Norte,Redmond,Washington,Estados Unidos
+678,4,Ciudad,América del Norte,Renton,Washington,Estados Unidos
+679,4,Ciudad,Asia,Rodas,Nueva Gales del Sur,Australia
+680,4,Ciudad,Asia,Rockhampton,Queensland,Australia
+681,4,Ciudad,Europa,En Roissy Brie,Red de tiro et Marne,Francia
+682,4,Ciudad,América del Norte,Royal roble,Columbia Británica,Canadá
+683,4,Ciudad,Europa,Saarbrücken,Sarre,Alemania
+684,4,Ciudad,Europa,Saint Ouen,Charente-Maritime,Francia
+685,4,Ciudad,Europa,Saint Ouen,Loir et Cher,Francia
+686,4,Ciudad,América del Norte,Córdoba,Oregon,Estados Unidos
+687,4,Ciudad,Europa,Salzgitter,Sajonia inferior,Alemania
+688,4,Ciudad,América del Norte,San Diego,California,Estados Unidos
+689,4,Ciudad,América del Norte,San Francisco,California,Estados Unidos
+690,4,Ciudad,América del Norte,SAN Gabriel,California,Estados Unidos
+691,4,Ciudad,América del Norte,Santa Cruz,California,Estados Unidos
+692,4,Ciudad,Asia,Seaford,Victoria,Australia
+693,4,Ciudad,América del Norte,Seattle,Washington,Estados Unidos
+694,4,Ciudad,América del Norte,Sedro Woolley,Washington,Estados Unidos
+695,4,Ciudad,América del Norte,Shawnee,Columbia Británica,Canadá
+696,4,Ciudad,Europa,Solingen,North Rhine-Westphalia,Alemania
+697,4,Ciudad,Asia,Melbourne sur,Victoria,Australia
+698,4,Ciudad,Europa,Stoke-on-Trent,Inglaterra,Reino Unido
+699,4,Ciudad,Asia,Sunbury,Victoria,Australia
+700,4,Ciudad,Europa,Tremblay-en-Francia,Red de tiro a Denis de SAN,Francia
+701,4,Ciudad,América del Norte,Victoria,Columbia Británica,Canadá
+702,4,Ciudad,Europa,Villeneuve d'Ascq,Norte,Francia
+703,4,Ciudad,América del Norte,W.Linn,Oregon,Estados Unidos
+704,4,Ciudad,Europa,Watford,Inglaterra,Reino Unido
+705,4,Ciudad,Europa,SUSSEX occidental,Inglaterra,Reino Unido
+706,4,Ciudad,Asia,Wollongong,Nueva Gales del Sur,Australia
+707,4,Ciudad,América del Norte,Colinas forestal,California,Estados Unidos
+708,4,Ciudad,Asia,Asjabad,Provincia de Ahal,Turkmenistán
+709,4,Ciudad,Asia,Bangkok,Krung Thep,Tailandia
+710,4,Ciudad,Asia,Pekín,Pekín,China
+711,4,Ciudad,Asia,Biskek,Provincia chuy,Kirguistán
+712,4,Ciudad,Asia,Busan ,Yeongnam,Corea del Sur
+713,4,Ciudad,Asia,Canberra,Molonglo,Australia
+714,4,Ciudad,Asia,Damasco,Damasco,Siria
+715,4,Ciudad,Asia,Guangzhou,GuangDong,China
+716,4,Ciudad,Asia,Hong Kong,Hong Kong,China
+717,4,Ciudad,Asia,Islamabad,Territorio de la capital de Islamabad,Pakistán
+718,4,Ciudad,Asia,Kolkata (Calcuta),Bengala Occidental,India
+719,4,Ciudad,Asia,Kyoto ,Kansai,Japón
+720,4,Ciudad,Asia,Miyagi,Tohoku,Japón
+721,4,Ciudad,Asia,Mumbai,Maharastra,India
+722,4,Ciudad,Asia,Nagoya ,Chubu,Japón
+723,4,Ciudad,Asia,Nueva Delhi,Territorio de la capital de nacionales de Delhi,India
+724,4,Ciudad,Asia,Osaka ,Kansai,Japón
+725,4,Ciudad,Asia,Sapporo ,Hokkaido,Japón
+726,4,Ciudad,Asia,Seúl,Seúl jikhalsi,Corea del Sur
+727,4,Ciudad,Asia,Shanghai,Shanghai,China
+728,4,Ciudad,Asia,Singapur,Singapur,Singapur
+729,4,Ciudad,Asia,Taipei,Taiwán,Taiwán
+730,4,Ciudad,Asia,Teherán,Teherán,Irán
+731,4,Ciudad,Asia,Thimphu,Distrito de Thimphu,Bután
+732,4,Ciudad,Asia,Tokio,Kanto,Japón
+733,4,Ciudad,Asia,Urumqi,Xinjiang,China
+734,4,Ciudad,Asia,Ereván,Armenia,Armenia
+735,4,Ciudad,Asia,Yokohama ,Kanto,Japón
+736,4,Ciudad,Europa,Ámsterdam,Noord Holanda,los Países Bajos
+737,4,Ciudad,Europa,Atenas,Grecia central y Evvoia,Grecia 
+738,4,Ciudad,Europa,Baildon,Inglaterra ,Reino Unido
+739,4,Ciudad,Europa,Baumholder,Rhineland-Palatinate,Alemania 
+740,4,Ciudad,Europa,Berne,Berna,Suiza 
+741,4,Ciudad,Europa,Bucarest,Bucuresti,Rumania 
+742,4,Ciudad,Europa,Carlisle,Inglaterra ,Reino Unido
+743,4,Ciudad,Europa,Cheshire,Inglaterra ,Reino Unido
+745,4,Ciudad,Europa,Copenhague,Staden Kobenhavn,Dinamarca       
+746,4,Ciudad,Europa,Dublín,Leinster,Irlanda 
+747,4,Ciudad,Europa,Dusseldorf,North Rhine-Westphalia,Alemania 
+748,4,Ciudad,Europa,Edimburgo,Escocia,Reino Unido
+749,4,Ciudad,Europa,Florencia,Provincia de Florencia,Italia    
+750,4,Ciudad,Europa,Giebelstadt,Bavaria,Alemania 
+751,4,Ciudad,Europa,Glasgow,Escocia,Reino Unido
+752,4,Ciudad,Europa,Hofheim estoy Taunus,Hesse,Alemania 
+753,4,Ciudad,Europa,Knotty Ash,Inglaterra ,Reino Unido
+754,4,Ciudad,Europa,Koln,North Rhine-Westphalia,Alemania 
+755,4,Ciudad,Europa,Lancashire,Inglaterra ,Reino Unido
+756,4,Ciudad,Europa,Landstuhl,Rhineland-Palatinate,Alemania 
+757,4,Ciudad,Europa,Lisboa,Región de Lisboa,Portugal
+758,4,Ciudad,Europa,Liubliana,Liubliana,Eslovenia
+759,4,Ciudad,Europa,Lyon,Rhone-Alpes ,Francia
+760,4,Ciudad,Europa,Madrid,Madrid,España
+761,4,Ciudad,Europa,Manchester,Inglaterra ,Reino Unido
+762,4,Ciudad,Europa,Marsella,Provence-Alpes-Côte d'Azur,Francia
+763,4,Ciudad,Europa,Milán,Lombardia,Italia    
+764,4,Ciudad,Europa,Moscú,Moskovskaya oblast,Rusia
+765,4,Ciudad,Europa,Munich,Bavaria,Alemania 
+766,4,Ciudad,Europa,Nantes,Pays de la Loire,Francia
+767,4,Ciudad,Europa,Niza,Alpes Maritimes,Francia
+768,4,Ciudad,Europa,Nizhny Novgorod ,Nizhny Novgorod Oblast,Rusia
+769,4,Ciudad,Europa,Bamberg,Bavaria,Alemania 
+770,4,Ciudad,Europa,Ramstein,Rhineland-Palatinate,Alemania 
+771,4,Ciudad,Europa,Roma,Roma,Italia    
+772,4,Ciudad,Europa,San Petersburgo,Northwestern,Rusia
+773,4,Ciudad,Europa,Estocolmo,Stockholms,Suecia 
+774,4,Ciudad,Europa,Stockport,Inglaterra ,Reino Unido
+775,4,Ciudad,Europa,Estrasburgo,BAS-Rhin,Francia
+776,4,Ciudad,Europa,Turín,Provincia de Turín,Italia    
+777,4,Ciudad,Europa,Toulouse,Midi-Pyrenees,Francia
+778,4,Ciudad,Europa,Valletta,Valletta,Malta
+779,4,Ciudad,Europa,Venecia,Venecia,Italia    
+780,4,Ciudad,Europa,Varsovia,Varsovia,Polonia 
+781,4,Ciudad,Europa,West Yorkshire,Inglaterra ,Reino Unido
+782,4,Ciudad,América del Norte,Albania,Nueva York,Estados Unidos
+783,4,Ciudad,América del Norte,Alejandría,Virginia,Estados Unidos
+784,4,Ciudad,América del Norte,Anchorage,Alaska,Estados Unidos
+785,4,Ciudad,América del Norte,Annapolis,Maryland,Estados Unidos
+786,4,Ciudad,América del Norte,Appleton,Wisconsin,Estados Unidos
+787,4,Ciudad,América del Norte,Arlington,Texas,Estados Unidos
+788,4,Ciudad,América del Norte,Atlantic City ,New Jersey,Estados Unidos
+789,4,Ciudad,América del Norte,Attleboro,Massachusetts,Estados Unidos
+790,4,Ciudad,América del Norte,Aurora,Colorado,Estados Unidos
+791,4,Ciudad,América del Norte,Austin,Texas,Estados Unidos
+792,4,Ciudad,América del Norte,Back River,Maryland,Estados Unidos
+793,4,Ciudad,América del Norte,Bacliff,Texas,Estados Unidos
+794,4,Ciudad,América del Norte,Baltimore,Maryland,Estados Unidos
+795,4,Ciudad,América del Norte,Bangor,Maine,Estados Unidos
+796,4,Ciudad,América del Norte,Bar Harbor,Maine,Estados Unidos
+797,4,Ciudad,América del Norte,Bayonne ,New Jersey,Estados Unidos
+798,4,Ciudad,América del Norte,Beaumont,Texas,Estados Unidos
+799,4,Ciudad,América del Norte,Berthoud,Colorado,Estados Unidos
+800,4,Ciudad,América del Norte,Bethesda,Maryland,Estados Unidos
+801,4,Ciudad,América del Norte,Bridgeport,Connecticut,Estados Unidos
+802,4,Ciudad,América del Norte,Boston,Massachusetts,Estados Unidos
+803,4,Ciudad,América del Norte,Boulder,Colorado,Estados Unidos
+804,4,Ciudad,América del Norte,Brooklyn,Nueva York,Estados Unidos
+805,4,Ciudad,América del Norte,Buffalo,Nueva York,Estados Unidos
+806,4,Ciudad,América del Norte,Burlington,Wisconsin,Estados Unidos
+807,4,Ciudad,América del Norte,Cabo Cañaveral,Florida,Estados Unidos
+808,4,Ciudad,América del Norte,Cape May,New Jersey,Estados Unidos
+809,4,Ciudad,América del Norte,Castle Rock,Colorado,Estados Unidos
+810,4,Ciudad,América del Norte,Charleston ,Carolina del Sur,Estados Unidos
+811,4,Ciudad,América del Norte,Charlottesville ,Virginia,Estados Unidos
+812,4,Ciudad,América del Norte,Cheney,Washington,Estados Unidos
+813,4,Ciudad,América del Norte,Cle Elum,Washington,Estados Unidos
+814,4,Ciudad,América del Norte,Clifton,New Jersey,Estados Unidos
+815,4,Ciudad,América del Norte,Dallas,Texas,Estados Unidos
+816,4,Ciudad,América del Norte,Darien,Connecticut,Estados Unidos
+817,4,Ciudad,América del Norte,Denton,Texas,Estados Unidos
+818,4,Ciudad,América del Norte,Denver,Colorado,Estados Unidos
+819,4,Ciudad,América del Norte,Desoto,Texas,Estados Unidos
+820,4,Ciudad,América del Norte,East Orange ,New Jersey,Estados Unidos
+821,4,Ciudad,América del Norte,East Troy,Wisconsin,Estados Unidos
+822,4,Ciudad,América del Norte,Edgerton,Wisconsin,Estados Unidos
+823,4,Ciudad,América del Norte,Elmira,Nueva York,Estados Unidos
+824,4,Ciudad,América del Norte,Englewood,Colorado,Estados Unidos
+825,4,Ciudad,América del Norte,Fall City,Washington,Estados Unidos
+826,4,Ciudad,América del Norte,Falmouth,Massachusetts,Estados Unidos
+827,4,Ciudad,América del Norte,Fond du lac,Wisconsin,Estados Unidos
+828,4,Ciudad,América del Norte,Fort Atkinson,Wisconsin,Estados Unidos
+829,4,Ciudad,América del Norte,Fort Collins,Colorado,Estados Unidos
+830,4,Ciudad,América del Norte,Fort Lauderdale,Florida,Estados Unidos
+831,4,Ciudad,América del Norte,Fort Worth,Texas,Estados Unidos
+832,4,Ciudad,América del Norte,Framingham,Massachusetts,Estados Unidos
+833,4,Ciudad,América del Norte,Fredericksburg,Virginia,Estados Unidos
+834,4,Ciudad,América del Norte,Georgetown,Texas,Estados Unidos
+835,4,Ciudad,América del Norte,Germantown,Maryland,Estados Unidos
+836,4,Ciudad,América del Norte,Grand Junction,Colorado,Estados Unidos
+837,4,Ciudad,América del Norte,Grand Prairie,Texas,Estados Unidos
+838,4,Ciudad,América del Norte,Granger,Washington,Estados Unidos
+839,4,Ciudad,América del Norte,Greeley,Colorado,Estados Unidos
+840,4,Ciudad,América del Norte,Green Bay,Wisconsin,Estados Unidos
+841,4,Ciudad,América del Norte,Greenville,Carolina del Sur,Estados Unidos
+842,4,Ciudad,América del Norte,Hackensack ,New Jersey,Estados Unidos
+843,4,Ciudad,América del Norte,Hartford,Connecticut,Estados Unidos
+844,4,Ciudad,América del Norte,Haverhill,Massachusetts,Estados Unidos
+845,4,Ciudad,América del Norte,Hillsboro,Texas,Estados Unidos
+846,4,Ciudad,América del Norte,Hingham,Massachusetts,Estados Unidos
+847,4,Ciudad,América del Norte,Hoboken ,New Jersey,Estados Unidos
+848,4,Ciudad,América del Norte,Holyoke,Massachusetts,Estados Unidos
+849,4,Ciudad,América del Norte,Houston,Texas,Estados Unidos
+850,4,Ciudad,América del Norte,Howard,Maryland,Estados Unidos
+851,4,Ciudad,América del Norte,Humble,Texas,Estados Unidos
+852,4,Ciudad,América del Norte,Ithaca,Nueva York,Estados Unidos
+853,4,Ciudad,América del Norte,Jacksonville,Florida,Estados Unidos
+854,4,Ciudad,América del Norte,Jersey City,New Jersey,Estados Unidos
+855,4,Ciudad,América del Norte,Kennebunkport,Maine,Estados Unidos
+856,4,Ciudad,América del Norte,Kennewick,Washington,Estados Unidos
+857,4,Ciudad,América del Norte,Key West,Florida,Estados Unidos
+858,4,Ciudad,América del Norte,La Porte,Texas,Estados Unidos
+859,4,Ciudad,América del Norte,Lafayette,Colorado,Estados Unidos
+860,4,Ciudad,América del Norte,Lakeland,Florida,Estados Unidos
+861,4,Ciudad,América del Norte,Leominster,Massachusetts,Estados Unidos
+862,4,Ciudad,América del Norte,Lewiston,Maine,Estados Unidos
+863,4,Ciudad,América del Norte,Lewisville,Texas,Estados Unidos
+864,4,Ciudad,América del Norte,Litchfield County,Connecticut,Estados Unidos
+865,4,Ciudad,América del Norte,Littleton,Colorado,Estados Unidos
+866,4,Ciudad,América del Norte,Longview,Texas,Estados Unidos
+867,4,Ciudad,América del Norte,Loveland,Colorado,Estados Unidos
+868,4,Ciudad,América del Norte,Lowell,Massachusetts,Estados Unidos
+869,4,Ciudad,América del Norte,Lynn,Massachusetts,Estados Unidos
+870,4,Ciudad,América del Norte,Madison,Wisconsin,Estados Unidos
+871,4,Ciudad,América del Norte,Manitowoc,Wisconsin,Estados Unidos
+872,4,Ciudad,América del Norte,Marshall,Texas,Estados Unidos
+873,4,Ciudad,América del Norte,Martinsville ,Virginia,Estados Unidos
+874,4,Ciudad,América del Norte,Menasha,Wisconsin,Estados Unidos
+875,4,Ciudad,América del Norte,Miami,Florida,Estados Unidos
+876,4,Ciudad,América del Norte,Midland,Texas,Estados Unidos
+877,4,Ciudad,América del Norte,Milliken,Colorado,Estados Unidos
+878,4,Ciudad,América del Norte,Milwaukee,Wisconsin,Estados Unidos
+879,4,Ciudad,América del Norte,Minden,Texas,Estados Unidos
+880,4,Ciudad,América del Norte,Montclair ,New Jersey,Estados Unidos
+881,4,Ciudad,América del Norte,Montreal,Quebec,Canadá
+882,4,Ciudad,América del Norte,Morristown ,New Jersey,Estados Unidos
+883,4,Ciudad,América del Norte,Nantucket,Massachusetts,Estados Unidos
+884,4,Ciudad,América del Norte,Nápoles,Florida,Estados Unidos
+885,4,Ciudad,América del Norte,New Bedford,Massachusetts,Estados Unidos
+886,4,Ciudad,América del Norte,New Brunswick ,New Jersey,Estados Unidos
+887,4,Ciudad,América del Norte,New Castle,Colorado,Estados Unidos
+888,4,Ciudad,América del Norte,New Haven ,Connecticut,Estados Unidos
+889,4,Ciudad,América del Norte,New London,Connecticut,Estados Unidos
+890,4,Ciudad,América del Norte,Nueva York,Nueva York,Estados Unidos
+891,4,Ciudad,América del Norte,Newark,New Jersey,Estados Unidos
+892,4,Ciudad,América del Norte,Norfolk,Virginia,Estados Unidos
+893,4,Ciudad,América del Norte,North Bend,Washington,Estados Unidos
+894,4,Ciudad,América del Norte,North Harford,Maryland,Estados Unidos
+895,4,Ciudad,América del Norte,Northampton,Massachusetts,Estados Unidos
+896,4,Ciudad,América del Norte,Old Saybrook,Connecticut,Estados Unidos
+897,4,Ciudad,América del Norte,Naranja,Texas,Estados Unidos
+898,4,Ciudad,América del Norte,Oregon,Wisconsin,Estados Unidos
+899,4,Ciudad,América del Norte,Orlando,Florida,Estados Unidos
+900,4,Ciudad,América del Norte,Orono,Maine,Estados Unidos
+901,4,Ciudad,América del Norte,Oshkosh,Wisconsin,Estados Unidos
+902,4,Ciudad,América del Norte,Oswego,Nueva York,Estados Unidos
+903,4,Ciudad,América del Norte,Ottawa,Ontario,Canadá
+904,4,Ciudad,América del Norte,Parker,Colorado,Estados Unidos
+905,4,Ciudad,América del Norte,Parkville,Maryland,Estados Unidos
+906,4,Ciudad,América del Norte,Pasadena,Texas,Estados Unidos
+907,4,Ciudad,América del Norte,Passaic ,New Jersey,Estados Unidos
+908,4,Ciudad,América del Norte,Paterson,New Jersey,Estados Unidos
+909,4,Ciudad,América del Norte,Pittsfield,Massachusetts,Estados Unidos
+910,4,Ciudad,América del Norte,Plano,Texas,Estados Unidos
+911,4,Ciudad,América del Norte,Plattsburgh,Nueva York,Estados Unidos
+912,4,Ciudad,América del Norte,Poestenkill,Nueva York,Estados Unidos
+913,4,Ciudad,América del Norte,Port Washington,Wisconsin,Estados Unidos
+914,4,Ciudad,América del Norte,Provincetown,Massachusetts,Estados Unidos
+915,4,Ciudad,América del Norte,Queen Anne's County,Maryland,Estados Unidos
+916,4,Ciudad,América del Norte,Queens,Nueva York,Estados Unidos
+917,4,Ciudad,América del Norte,Quincy,Massachusetts,Estados Unidos
+918,4,Ciudad,América del Norte,Racine,Wisconsin,Estados Unidos
+919,4,Ciudad,América del Norte,Richardson,Texas,Estados Unidos
+920,4,Ciudad,América del Norte,Ridgely,Maryland,Estados Unidos
+921,4,Ciudad,América del Norte,Roanoke,Virginia,Estados Unidos
+922,4,Ciudad,América del Norte,Rochester,Nueva York,Estados Unidos
+923,4,Ciudad,América del Norte,Round Rock,Texas,Estados Unidos
+924,4,Ciudad,América del Norte,Russellville,Texas,Estados Unidos
+925,4,Ciudad,América del Norte,San Antonio,Texas,Estados Unidos
+926,4,Ciudad,América del Norte,Sebring,Florida,Estados Unidos
+927,4,Ciudad,América del Norte,Sedalia,Colorado,Estados Unidos
+928,4,Ciudad,América del Norte,Sheboygan,Wisconsin,Estados Unidos
+929,4,Ciudad,América del Norte,Shreveport,Texas,Estados Unidos
+930,4,Ciudad,América del Norte,Snoqualmie,Washington,Estados Unidos
+931,4,Ciudad,América del Norte,Somerville,Massachusetts,Estados Unidos
+932,4,Ciudad,América del Norte,South Portland,Maine,Estados Unidos
+933,4,Ciudad,América del Norte,Spring,Texas,Estados Unidos
+934,4,Ciudad,América del Norte,Stoughton,Wisconsin,Estados Unidos
+935,4,Ciudad,América del Norte,Sunnyside,Washington,Estados Unidos
+936,4,Ciudad,América del Norte,Siracusa,Nueva York,Estados Unidos
+937,4,Ciudad,América del Norte,Tallahassee,Florida,Estados Unidos
+938,4,Ciudad,América del Norte,Tampa,Florida,Estados Unidos
+939,4,Ciudad,América del Norte,Texas City,Texas,Estados Unidos
+940,4,Ciudad,América del Norte,Thornton,Colorado,Estados Unidos
+941,4,Ciudad,América del Norte,Toppenish,Washington,Estados Unidos
+942,4,Ciudad,América del Norte,Toronto,Ontario,Canadá
+943,4,Ciudad,América del Norte,Trenton,New Jersey,Estados Unidos
+944,4,Ciudad,América del Norte,Veradale,Washington,Estados Unidos
+945,4,Ciudad,América del Norte,Vineland,New Jersey,Estados Unidos
+946,4,Ciudad,América del Norte,Virginia Beach,Virginia,Estados Unidos
+947,4,Ciudad,América del Norte,Wapato,Washington,Estados Unidos
+948,4,Ciudad,América del Norte,Waterbury,Connecticut,Estados Unidos
+949,4,Ciudad,América del Norte,Waukesha,Wisconsin,Estados Unidos
+950,4,Ciudad,América del Norte,Wheat Ridge,Colorado,Estados Unidos
+951,4,Ciudad,América del Norte,Winchester,Virginia,Estados Unidos
+952,4,Ciudad,América del Norte,Worcester,Massachusetts,Estados Unidos

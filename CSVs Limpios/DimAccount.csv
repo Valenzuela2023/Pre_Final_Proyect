@@ -1,0 +1,24 @@
+AccountKey,ParentAccountKey,AccountName,AccountDescription,AccountType,ValueType
+1,24.0,Pérdidas y ganancias después de impuestos,Pérdidas y ganancias después de impuestos,Income,Income
+2,24.0,Ingresos,Ingresos,Ingresos,Ingresos
+3,24.0,Gastos,Gastos,Gastos,Gastos
+4,2.0,Ingresos de ventas,Ingresos de ventas,Ingresos,Ingresos
+5,3.0,Costo de productos vendidos,Costo de productos vendidos,Gastos,Gastos
+6,3.0,"Gastos de ventas, generales y administrativos","Gastos de ventas, generales y administrativos",Gastos,Gastos
+7,6.0,Gastos de administración,Gastos de administración,Gastos,Gastos
+8,6.0,Costo de TI,Costo de TI,Gastos,Gastos
+9,6.0,Capital humano,Capital humano,Gastos,Gastos
+10,6.0,"Costos de comunicación, electricidad y calefacción","Costos de comunicación, electricidad y calefacción",Gastos,Gastos
+11,6.0,Costos de propiedad,Costos de propiedad,Gastos,Gastos
+12,6.0,Otros gastos,Otros gastos,Gastos,Gastos
+13,6.0,Costo de marketing,Costos de marketing y publicidad,Gastos,Gastos
+14,13.0,Costo de anuncio en festividad,Costo de anuncio en festividad,Gastos,Gastos
+15,13.0,Costo de anuncio de primavera,Costo de anuncio de primavera,Gastos,Gastos
+16,13.0,Costo de anuncio de vuelta al cole,Costo de anuncio de vuelta al cole,Gastos,Gastos
+17,13.0,Costo de anuncio de negocio,Costo de anuncio de negocio,Gastos,Gastos
+18,13.0,Momento de declaración / costo de anuncio de veran,Momento de declaración / costo de anuncio de veran,Gastos,Gastos
+19,1.0,Impuestos,Impuestos,Impuestos,Impuestos
+20,14.0,Radio y TV,Costo de anuncio en festividad por radio y TV,Gastos,Gastos
+21,14.0,Imprimir,Costo de anuncio en festividad por impresión,Gastos,Gastos
+22,14.0,Internet,Costo de anuncio en festividad por Internet,Gastos,Gastos
+23,14.0,Otros,Costo de anuncio en festividad por otros,Gastos,Gastos

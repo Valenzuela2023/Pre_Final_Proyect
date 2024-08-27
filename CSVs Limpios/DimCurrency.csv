@@ -1,0 +1,29 @@
+CurrencyKey,CurrencyName,CurrencyDescription
+1,USD,Dólar estadounidense
+2,AMD,Dram de Armenia
+3,AUD,Dólar australiano
+4,THB,Baht tailandés
+5,CAD,Dólar canadiense
+6,DKK,Corona danesa
+7,EUR,EURO
+8,HKD,Dólar de Hong Kong
+9,INR,Rupia india
+10,ROL,Leu rumano
+11,MTL,Lira maltesa
+12,TWD,Dólar taiwanés
+13,BTN,Ngultrum de Bután
+14,PKR,Rupia de Pakistán
+15,RUB,Rublo ruso
+16,SGD,Dólar de Singapur
+17,SEK,Corona sueca
+18,CHF,Franco suizo
+19,SIT,Tólar esloveno
+20,GBP,Libra esterlina
+21,KRW,Won surcoreano
+22,JPY,Yen japonés
+23,CNY,Yuan chino
+24,PLN,Zloty polaco
+25,IRR,Irán
+26,SYP,Libra siria
+27,TMM,Manat turkmeno
+28,KGS,Kirguistán

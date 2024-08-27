@@ -1,0 +1,29 @@
+PromotionKey,PromotionName,DiscountPercent,PromotionType,PromotionCategory
+1,No Promotion,0,No hay descuento,No hay descuento
+2,América del Norte Promoción de primavera,"0,05",Descuento estacional,Almacén
+3,América del Norte Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+4,América del Norte Promoción de vacaciones,"0,2",Descuento estacional,Almacén
+5,Asiático Promoción de vacaciones,"0,15",Descuento estacional,Almacén
+6,Asiático Promoción de primavera,"0,2",Descuento estacional,Almacén
+7,Asiático Promoción de verano,"0,1",Descuento estacional,Almacén
+8,Europeo Promoción de primavera,"0,07",Descuento estacional,Almacén
+9,Europeo Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+10,Europeo Promoción de vacaciones,"0,2",Descuento estacional,Almacén
+11,América del Norte Promoción de primavera,"0,05",Descuento estacional,Almacén
+12,América del Norte Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+13,América del Norte Promoción de vacaciones,"0,2",Descuento estacional,Almacén
+14,Asiático Promoción de vacaciones,"0,15",Descuento estacional,Almacén
+15,Asiático Promoción de primavera,"0,2",Descuento estacional,Almacén
+16,Asiático Promoción de verano,"0,1",Descuento estacional,Almacén
+17,Europeo Promoción de primavera,"0,07",Descuento estacional,Almacén
+18,Europeo Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+19,Europeo Promoción de vacaciones,"0,2",Descuento estacional,Almacén
+20,América del Norte Promoción de primavera,"0,05",Descuento estacional,Almacén
+21,América del Norte Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+22,América del Norte Promoción de vacaciones,"0,2",Descuento estacional,Almacén
+23,Asiático Promoción de vacaciones,"0,15",Descuento estacional,Almacén
+24,Asiático Promoción de primavera,"0,2",Descuento estacional,Almacén
+25,Asiático Promoción de verano,"0,1",Descuento estacional,Almacén
+26,Europeo Promoción de primavera,"0,07",Descuento estacional,Almacén
+27,Europeo Promoción de vuelta al cole,"0,1",Descuento estacional,Almacén
+28,Europeo Promoción de vacaciones,"0,2",Descuento estacional,Almacén

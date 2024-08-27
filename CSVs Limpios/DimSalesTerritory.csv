@@ -1,0 +1,266 @@
+SalesTerritoryKey,GeographyKey,SalesTerritoryName,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup,SalesTerritoryLevel,SalesTerritoryManager,Status,EmployeeKey
+1,693,Seattle,Washington,Estados Unidos,América del Norte,4,35,Actual,35
+2,856,Kennewick,Washington,Estados Unidos,América del Norte,4,36,Actual,36
+3,424,Bellevue,Washington,Estados Unidos,América del Norte,4,37,Actual,37
+4,677,Redmond,Washington,Estados Unidos,América del Norte,4,38,Actual,38
+5,575,Yakima,Washington,Estados Unidos,América del Norte,4,39,Actual,39
+6,838,Granger,Washington,Estados Unidos,América del Norte,4,40,Actual,40
+7,935,Sunnyside,Washington,Estados Unidos,América del Norte,4,41,Actual,41
+8,941,Toppenish,Washington,Estados Unidos,América del Norte,4,42,Actual,42
+9,947,Wapato,Washington,Estados Unidos,América del Norte,4,43,Actual,43
+10,813,Cle Elum,Washington,Estados Unidos,América del Norte,4,44,Actual,44
+11,893,North Bend,Washington,Estados Unidos,América del Norte,4,45,Actual,45
+12,930,Snoqualmie,Washington,Estados Unidos,América del Norte,4,46,Actual,46
+13,825,Fall City,Washington,Estados Unidos,América del Norte,4,47,Actual,47
+14,678,Renton,Washington,Estados Unidos,América del Norte,4,48,Actual,48
+15,627,Everett,Washington,Estados Unidos,América del Norte,4,49,Actual,49
+16,944,Veradale,Washington,Estados Unidos,América del Norte,4,50,Actual,50
+17,812,Cheney,Washington,Estados Unidos,América del Norte,4,51,Actual,51
+18,824,Englewood,Colorado,Estados Unidos,América del Norte,4,52,Actual,52
+19,950,Wheat Ridge,Colorado,Estados Unidos,América del Norte,4,66,Actual,66
+20,571,Westminster,Columbia Británica,Canadá,América del Norte,4,54,Actual,54
+21,836,Grand Junction,Colorado,Estados Unidos,América del Norte,4,55,Actual,55
+22,887,New Castle,Colorado,Estados Unidos,América del Norte,4,56,Actual,56
+23,839,Greeley,Colorado,Estados Unidos,América del Norte,4,57,Actual,57
+24,867,Loveland,Colorado,Estados Unidos,América del Norte,4,58,Actual,58
+25,859,Lafayette,Colorado,Estados Unidos,América del Norte,4,59,Actual,59
+26,809,Castle Rock,Colorado,Estados Unidos,América del Norte,4,60,Actual,60
+27,927,Sedalia,Colorado,Estados Unidos,América del Norte,4,61,Actual,61
+28,829,Fort Collins,Colorado,Estados Unidos,América del Norte,4,62,Actual,62
+29,877,Milliken,Colorado,Estados Unidos,América del Norte,4,63,Actual,63
+30,799,Berthoud,Colorado,Estados Unidos,América del Norte,4,64,Actual,64
+31,818,Denver,Colorado,Estados Unidos,América del Norte,4,65,Actual,65
+32,803,Boulder,Colorado,Estados Unidos,América del Norte,4,66,Actual,66
+33,940,Thornton,Colorado,Estados Unidos,América del Norte,4,67,Actual,67
+34,865,Littleton,Colorado,Estados Unidos,América del Norte,4,68,Actual,68
+35,790,Aurora,Colorado,Estados Unidos,América del Norte,4,69,Actual,69
+36,904,Parker,Colorado,Estados Unidos,América del Norte,4,70,Actual,70
+37,840,Green Bay,Wisconsin,Estados Unidos,América del Norte,4,71,Actual,71
+38,786,Appleton,Wisconsin,Estados Unidos,América del Norte,4,72,Actual,72
+39,874,Menasha,Wisconsin,Estados Unidos,América del Norte,4,73,Actual,73
+40,901,Oshkosh,Wisconsin,Estados Unidos,América del Norte,4,74,Actual,74
+41,878,Milwaukee,Wisconsin,Estados Unidos,América del Norte,4,75,Actual,75
+42,949,Waukesha,Wisconsin,Estados Unidos,América del Norte,4,76,Actual,76
+43,835,Germantown,Maryland,Estados Unidos,América del Norte,4,77,Actual,77
+45,913,Port Washington,Wisconsin,Estados Unidos,América del Norte,4,79,Actual,79
+46,928,Sheboygan,Wisconsin,Estados Unidos,América del Norte,4,80,Actual,80
+47,871,Manitowoc,Wisconsin,Estados Unidos,América del Norte,4,81,Actual,81
+48,870,Madison,Wisconsin,Estados Unidos,América del Norte,4,82,Actual,82
+49,898,Oregon,Wisconsin,Estados Unidos,América del Norte,4,83,Actual,83
+50,934,Stoughton,Wisconsin,Estados Unidos,América del Norte,4,84,Actual,84
+51,822,Edgerton,Wisconsin,Estados Unidos,América del Norte,4,85,Actual,85
+52,828,Fort Atkinson,Wisconsin,Estados Unidos,América del Norte,4,86,Actual,86
+53,918,Racine,Wisconsin,Estados Unidos,América del Norte,4,87,Actual,87
+54,849,Houston,Texas,Estados Unidos,América del Norte,4,88,Actual,88
+55,876,Midland,Texas,Estados Unidos,América del Norte,4,89,Actual,89
+56,924,Russellville,Texas,Estados Unidos,América del Norte,4,90,Actual,90
+57,879,Minden,Texas,Estados Unidos,América del Norte,4,91,Actual,91
+58,929,Shreveport,Texas,Estados Unidos,América del Norte,4,92,Actual,92
+59,872,Marshall,Texas,Estados Unidos,América del Norte,4,93,Actual,93
+60,866,Longview,Texas,Estados Unidos,América del Norte,4,94,Actual,94
+61,798,Beaumont,Texas,Estados Unidos,América del Norte,4,95,Actual,95
+62,897,Naranja,Texas,Estados Unidos,América del Norte,4,96,Actual,96
+63,579,Baytown,Texas,Estados Unidos,América del Norte,4,97,Actual,97
+64,858,La Porte,Texas,Estados Unidos,América del Norte,4,98,Actual,98
+65,793,Bacliff,Texas,Estados Unidos,América del Norte,4,99,Actual,99
+66,939,Texas City,Texas,Estados Unidos,América del Norte,4,100,Actual,100
+67,906,Pasadena,Texas,Estados Unidos,América del Norte,4,101,Actual,101
+68,851,Humble,Texas,Estados Unidos,América del Norte,4,102,Actual,102
+69,933,Spring,Texas,Estados Unidos,América del Norte,4,103,Actual,103
+70,791,Austin,Texas,Estados Unidos,América del Norte,4,104,Actual,104
+71,925,San Antonio,Texas,Estados Unidos,América del Norte,4,105,Actual,105
+72,453,Cedar Park,Texas,Estados Unidos,América del Norte,4,106,Actual,106
+73,923,Round Rock,Texas,Estados Unidos,América del Norte,4,107,Actual,107
+74,815,Dallas,Texas,Estados Unidos,América del Norte,4,108,Actual,108
+75,834,Georgetown,Texas,Estados Unidos,América del Norte,4,109,Actual,109
+76,845,Hillsboro,Texas,Estados Unidos,América del Norte,4,110,Actual,110
+77,787,Arlington,Texas,Estados Unidos,América del Norte,4,111,Actual,111
+78,837,Grand Prairie,Texas,Estados Unidos,América del Norte,4,112,Actual,112
+79,819,Desoto,Texas,Estados Unidos,América del Norte,4,113,Actual,113
+80,919,Richardson,Texas,Estados Unidos,América del Norte,4,114,Actual,114
+81,863,Lewisville,Texas,Estados Unidos,América del Norte,4,115,Actual,115
+82,817,Denton,Texas,Estados Unidos,América del Norte,4,116,Actual,116
+83,831,Fort Worth,Texas,Estados Unidos,América del Norte,4,117,Actual,117
+84,910,Plano,Texas,Estados Unidos,América del Norte,4,118,Actual,118
+85,875,Miami,Florida,Estados Unidos,América del Norte,4,119,Actual,119
+86,853,Jacksonville,Florida,Estados Unidos,América del Norte,4,120,Actual,120
+87,937,Tallahassee,Florida,Estados Unidos,América del Norte,4,121,Actual,121
+88,884,Nápoles,Florida,Estados Unidos,América del Norte,4,122,Actual,122
+89,926,Sebring,Florida,Estados Unidos,América del Norte,4,123,Actual,123
+90,860,Lakeland,Florida,Estados Unidos,América del Norte,4,124,Actual,124
+91,830,Fort Lauderdale,Florida,Estados Unidos,América del Norte,4,125,Actual,125
+92,899,Orlando,Florida,Estados Unidos,América del Norte,4,126,Actual,126
+93,938,Tampa,Florida,Estados Unidos,América del Norte,4,127,Actual,127
+94,857,Key West,Florida,Estados Unidos,América del Norte,4,128,Actual,128
+95,807,Cabo Cañaveral,Florida,Estados Unidos,América del Norte,4,129,Actual,129
+96,782,Albania,Nueva York,Estados Unidos,América del Norte,4,130,Actual,130
+97,890,Nueva York,Nueva York,Estados Unidos,América del Norte,4,131,Actual,131
+98,922,Rochester,Nueva York,Estados Unidos,América del Norte,4,132,Actual,132
+99,936,Siracusa,Nueva York,Estados Unidos,América del Norte,4,133,Actual,133
+100,805,Buffalo,Nueva York,Estados Unidos,América del Norte,4,134,Actual,134
+101,551,Spokane,Washington,Estados Unidos,América del Norte,4,135,Actual,135
+102,827,Fond du lac,Wisconsin,Estados Unidos,América del Norte,4,136,Actual,136
+103,806,Burlington,Wisconsin,Estados Unidos,América del Norte,4,137,Actual,137
+104,821,East Troy,Wisconsin,Estados Unidos,América del Norte,4,138,Actual,138
+105,911,Plattsburgh,Nueva York,Estados Unidos,América del Norte,4,139,Actual,139
+106,804,Brooklyn,Nueva York,Estados Unidos,América del Norte,4,140,Actual,140
+107,902,Oswego,Nueva York,Estados Unidos,América del Norte,4,141,Actual,141
+108,852,Ithaca,Nueva York,Estados Unidos,América del Norte,4,142,Actual,142
+110,916,Queens,Nueva York,Estados Unidos,América del Norte,4,143,Actual,143
+111,823,Elmira,Nueva York,Estados Unidos,América del Norte,4,144,Actual,144
+112,912,Poestenkill,Nueva York,Estados Unidos,América del Norte,4,145,Actual,145
+113,943,Trenton,New Jersey,Estados Unidos,América del Norte,4,146,Actual,146
+114,891,Newark,New Jersey,Estados Unidos,América del Norte,4,147,Actual,147
+115,854,Jersey City,New Jersey,Estados Unidos,América del Norte,4,148,Actual,148
+116,908,Paterson,New Jersey,Estados Unidos,América del Norte,4,149,Actual,149
+117,814,Clifton,New Jersey,Estados Unidos,América del Norte,4,150,Actual,150
+118,820,East Orange ,New Jersey,Estados Unidos,América del Norte,4,151,Actual,151
+119,907,Passaic ,New Jersey,Estados Unidos,América del Norte,4,152,Actual,152
+120,797,Bayonne ,New Jersey,Estados Unidos,América del Norte,4,153,Actual,153
+121,945,Vineland,New Jersey,Estados Unidos,América del Norte,4,154,Actual,154
+122,886,New Brunswick ,New Jersey,Estados Unidos,América del Norte,4,155,Actual,155
+123,842,Hackensack ,New Jersey,Estados Unidos,América del Norte,4,156,Actual,156
+124,788,Atlantic City ,New Jersey,Estados Unidos,América del Norte,4,157,Actual,157
+125,880,Montclair ,New Jersey,Estados Unidos,América del Norte,4,158,Actual,158
+126,847,Hoboken ,New Jersey,Estados Unidos,América del Norte,4,159,Actual,159
+127,882,Morristown ,New Jersey,Estados Unidos,América del Norte,4,160,Actual,160
+128,808,Cape May,New Jersey,Estados Unidos,América del Norte,4,161,Actual,161
+129,802,Boston,Massachusetts,Estados Unidos,América del Norte,4,162,Actual,162
+130,952,Worcester,Massachusetts,Estados Unidos,América del Norte,4,163,Actual,163
+132,885,New Bedford,Massachusetts,Estados Unidos,América del Norte,4,164,Actual,164
+133,789,Attleboro,Massachusetts,Estados Unidos,América del Norte,4,165,Actual,165
+134,868,Lowell,Massachusetts,Estados Unidos,América del Norte,4,166,Actual,166
+135,861,Leominster,Massachusetts,Estados Unidos,América del Norte,4,167,Actual,167
+136,846,Hingham,Massachusetts,Estados Unidos,América del Norte,4,168,Actual,168
+137,917,Quincy,Massachusetts,Estados Unidos,América del Norte,4,169,Actual,169
+138,832,Framingham,Massachusetts,Estados Unidos,América del Norte,4,170,Actual,170
+139,449,Cambridge,Inglaterra,Reino Unido,Europa,4,171,Actual,171
+140,931,Somerville,Massachusetts,Estados Unidos,América del Norte,4,172,Actual,172
+141,844,Haverhill,Massachusetts,Estados Unidos,América del Norte,4,173,Actual,173
+142,869,Lynn,Massachusetts,Estados Unidos,América del Norte,4,174,Actual,174
+143,895,Northampton,Massachusetts,Estados Unidos,América del Norte,4,175,Actual,175
+144,848,Holyoke,Massachusetts,Estados Unidos,América del Norte,4,176,Actual,176
+145,909,Pittsfield,Massachusetts,Estados Unidos,América del Norte,4,177,Actual,177
+146,826,Falmouth,Massachusetts,Estados Unidos,América del Norte,4,178,Actual,178
+147,914,Provincetown,Massachusetts,Estados Unidos,América del Norte,4,179,Actual,179
+148,883,Nantucket,Massachusetts,Estados Unidos,América del Norte,4,180,Actual,180
+149,795,Bangor,Maine,Estados Unidos,América del Norte,4,181,Actual,181
+150,796,Bar Harbor,Maine,Estados Unidos,América del Norte,4,182,Actual,182
+151,855,Kennebunkport,Maine,Estados Unidos,América del Norte,4,183,Actual,183
+152,862,Lewiston,Maine,Estados Unidos,América del Norte,4,184,Actual,184
+153,900,Orono,Maine,Estados Unidos,América del Norte,4,185,Actual,185
+154,932,South Portland,Maine,Estados Unidos,América del Norte,4,186,Actual,186
+155,843,Hartford,Connecticut,Estados Unidos,América del Norte,4,187,Actual,187
+156,801,Bridgeport,Connecticut,Estados Unidos,América del Norte,4,188,Actual,188
+157,948,Waterbury,Connecticut,Estados Unidos,América del Norte,4,189,Actual,189
+158,896,Old Saybrook,Connecticut,Estados Unidos,América del Norte,4,190,Actual,190
+159,816,Darien,Connecticut,Estados Unidos,América del Norte,4,191,Actual,191
+160,888,New Haven ,Connecticut,Estados Unidos,América del Norte,4,192,Actual,192
+161,864,Litchfield County,Connecticut,Estados Unidos,América del Norte,4,193,Actual,193
+162,889,New London,Connecticut,Estados Unidos,América del Norte,4,194,Actual,194
+163,892,Norfolk,Virginia,Estados Unidos,América del Norte,4,195,Actual,195
+164,946,Virginia Beach,Virginia,Estados Unidos,América del Norte,4,196,Actual,196
+165,951,Winchester,Virginia,Estados Unidos,América del Norte,4,197,Actual,197
+167,783,Alejandría,Virginia,Estados Unidos,América del Norte,4,198,Actual,198
+168,921,Roanoke,Virginia,Estados Unidos,América del Norte,4,199,Actual,199
+169,811,Charlottesville ,Virginia,Estados Unidos,América del Norte,4,200,Actual,200
+170,833,Fredericksburg,Virginia,Estados Unidos,América del Norte,4,201,Actual,201
+171,873,Martinsville ,Virginia,Estados Unidos,América del Norte,4,202,Actual,202
+172,841,Greenville,Carolina del Sur,Estados Unidos,América del Norte,4,203,Actual,203
+173,810,Charleston ,Carolina del Sur,Estados Unidos,América del Norte,4,204,Actual,204
+174,785,Annapolis,Maryland,Estados Unidos,América del Norte,4,205,Actual,205
+175,794,Baltimore,Maryland,Estados Unidos,América del Norte,4,206,Actual,206
+176,850,Howard,Maryland,Estados Unidos,América del Norte,4,207,Actual,207
+177,920,Ridgely,Maryland,Estados Unidos,América del Norte,4,208,Actual,208
+178,915,Queen Anne's County,Maryland,Estados Unidos,América del Norte,4,209,Actual,209
+179,905,Parkville,Maryland,Estados Unidos,América del Norte,4,210,Actual,210
+180,792,Back River,Maryland,Estados Unidos,América del Norte,4,211,Actual,211
+182,800,Bethesda,Maryland,Estados Unidos,América del Norte,4,212,Actual,212
+183,894,North Harford,Maryland,Estados Unidos,América del Norte,4,213,Actual,213
+184,506,Londres,Inglaterra ,Reino Unido,Europa,4,219,Actual,219
+185,748,Edimburgo,Escocia,Reino Unido,Europa,4,220,Actual,220
+186,751,Glasgow,Escocia,Reino Unido,Europa,4,221,Actual,221
+187,576,York,Inglaterra ,Reino Unido,Europa,4,222,Actual,222
+188,742,Carlisle,Inglaterra ,Reino Unido,Europa,4,223,Actual,223
+189,761,Manchester,Inglaterra ,Reino Unido,Europa,4,224,Actual,224
+190,755,Lancashire,Inglaterra ,Reino Unido,Europa,4,225,Actual,225
+191,781,West Yorkshire,Inglaterra ,Reino Unido,Europa,4,226,Actual,226
+192,738,Baildon,Inglaterra ,Reino Unido,Europa,4,227,Actual,227
+193,743,Cheshire,Inglaterra ,Reino Unido,Europa,4,228,Actual,228
+194,774,Stockport,Inglaterra ,Reino Unido,Europa,4,229,Actual,229
+195,651,Liverpool,Inglaterra ,Reino Unido,Europa,4,230,Actual,230
+196,753,Knotty Ash,Inglaterra ,Reino Unido,Europa,4,231,Actual,231
+197,501,Leeds,Inglaterra ,Reino Unido,Europa,4,232,Actual,232
+198,529,París,Red de tiro (París),Francia,Europa,4,233,Actual,233
+199,762,Marsella,Provence-Alpes-Côte d'Azur,Francia,Europa,4,234,Actual,234
+200,759,Lyon,Rhone-Alpes ,Francia,Europa,4,235,Actual,235
+201,777,Toulouse,Midi-Pyrenees,Francia,Europa,4,236,Actual,236
+202,767,Niza,Alpes Maritimes,Francia,Europa,4,237,Actual,237
+203,766,Nantes,Pays de la Loire,Francia,Europa,4,238,Actual,238
+204,775,Estrasburgo,BAS-Rhin,Francia,Europa,4,239,Actual,239
+205,771,Roma,Roma,Italia    ,Europa,4,240,Actual,240
+206,779,Venecia,Venecia,Italia    ,Europa,4,241,Actual,241
+207,749,Florencia,Provincia de Florencia,Italia    ,Europa,4,242,Actual,242
+208,776,Turín,Provincia de Turín,Italia    ,Europa,4,243,Actual,243
+209,763,Milán,Lombardia,Italia    ,Europa,4,244,Actual,244
+211,586,Berlín,Berlín,Alemania ,Europa,4,246,Actual,246
+214,752,Hofheim estoy Taunus,Hesse,Alemania ,Europa,4,248,Actual,248
+215,754,Koln,North Rhine-Westphalia,Alemania ,Europa,4,249,Actual,249
+216,756,Landstuhl,Rhineland-Palatinate,Alemania ,Europa,4,250,Actual,250
+217,747,Dusseldorf,North Rhine-Westphalia,Alemania ,Europa,4,251,Actual,251
+218,770,Ramstein,Rhineland-Palatinate,Alemania ,Europa,4,252,Actual,252
+219,739,Baumholder,Rhineland-Palatinate,Alemania ,Europa,4,253,Actual,253
+220,750,Giebelstadt,Bavaria,Alemania ,Europa,4,254,Actual,254
+221,769,Bamberg,Bavaria,Alemania ,Europa,4,255,Actual,255
+222,765,Munich,Bavaria,Alemania ,Europa,4,256,Actual,256
+223,736,Ámsterdam,Noord Holanda,los Países Bajos,Europa,4,257,Actual,257
+224,745,Copenhague,Staden Kobenhavn,Dinamarca       ,Europa,4,258,Actual,258
+225,773,Estocolmo,Stockholms,Suecia ,Europa,4,259,Actual,259
+226,760,Madrid,Madrid,España,Europa,4,260,Actual,260
+227,758,Liubliana,Liubliana,Eslovenia,Europa,4,261,Actual,261
+228,741,Bucarest,Bucuresti,Rumania ,Europa,4,262,Actual,262
+229,740,Berne,Berna,Suiza ,Europa,4,263,Actual,263
+230,780,Varsovia,Varsovia,Polonia ,Europa,4,264,Actual,264
+231,778,Valletta,Valletta,Malta,Europa,4,265,Actual,265
+232,746,Dublín,Leinster,Irlanda ,Europa,4,266,Actual,266
+233,737,Atenas,Grecia central y Evvoia,Grecia ,Europa,4,267,Actual,267
+234,728,Singapur,Singapur,Singapur,Asia,4,268,Actual,268
+235,723,Nueva Delhi,Territorio de la capital de India,India,Asia,4,269,Actual,269
+236,721,Mumbai,Maharastra,India,Asia,4,270,Actual,270
+237,718,Kolkata (Calcuta),Bengala Occidental,India,Asia,4,271,Actual,271
+238,731,Thimphu,Distrito de Thimphu,Bután,Asia,4,272,Actual,272
+239,716,Hong Kong,Hong Kong,Gran China,Asia,4,273,Actual,273
+240,730,Teherán,Teherán,Irán,Asia,4,274,Actual,274
+241,714,Damasco,Damasco,Siria,Asia,4,275,Actual,275
+242,709,Bangkok,Krung Thep,Tailandia,Asia,4,276,Actual,276
+243,764,Moscú,Moskovskaya oblast,Rusia,Europa,4,277,Actual,277
+244,708,Asjabad,Provincia de Ahal,Turkmenistán,Asia,4,278,Actual,278
+245,717,Islamabad,Territorio de la capital de Islamabad,Pakistán,Asia,4,279,Actual,279
+246,720,Miyagi,Tohoku,Japón,Asia,4,280,Actual,280
+247,732,Tokio,Kanto,Japón,Asia,4,281,Actual,281
+248,735,Yokohama ,Kanto,Japón,Asia,4,282,Actual,282
+249,724,Osaka ,Kansai,Japón,Asia,4,283,Actual,283
+250,722,Nagoya ,Chubu,Japón,Asia,4,284,Actual,284
+251,725,Sapporo ,Hokkaido,Japón,Asia,4,285,Actual,285
+252,719,Kyoto ,Kansai,Japón,Asia,4,286,Actual,286
+253,726,Seúl,Seúl jikhalsi,Corea del Sur,Asia,4,287,Actual,287
+254,712,Busan ,Yeongnam,Corea del Sur,Asia,4,288,Actual,288
+255,711,Biskek,Provincia chuy,Kirguistán,Asia,4,289,Actual,289
+256,727,Shanghai,Shanghai,Gran China,Asia,4,290,Actual,290
+257,733,Urumqi,Xinjiang,Gran China,Asia,4,291,Actual,291
+258,710,Pekín,Pekín,Gran China,Asia,4,292,Actual,292
+259,715,Guangzhou,GuangDong,Gran China,Asia,4,293,Actual,293
+260,558,Sidney,Nueva Gales del Sur,Australia,Asia,4,294,Actual,294
+261,734,Ereván,Armenia,Armenia,Asia,4,295,Actual,295
+262,713,Canberra,Molonglo,Australia,Asia,4,296,Actual,296
+263,903,Ottawa,Ontario,Canadá,América del Norte,4,214,Actual,214
+264,942,Toronto,Ontario,Canadá,América del Norte,4,215,Actual,215
+265,881,Montreal,Quebec,Canadá,América del Norte,4,216,Actual,216
+266,562,Vancouver,Columbia Británica,Canadá,América del Norte,4,217,Actual,217
+267,598,Calgary,Alberta,Canadá,América del Norte,4,218,Actual,218
+268,784,Anchorage,Alaska,Estados Unidos,América del Norte,4,34,Actual,34
+269,729,Taipei,Taiwán,Gran China,Asia,4,24,Actual,24
+270,757,Lisboa,Región de Lisboa,Portugal,Europa,4,25,Actual,25
+271,772,San Petersburgo,Northwestern,Rusia,Europa,4,14,Actual,14
+272,768,Nizhny Novgorod ,Nizhny Novgorod Oblast,Rusia,Europa,4,15,Actual,15
+274,542,Saarlouis,Sarre,Alemania ,Europa,4,247,Actual,247

@@ -1,0 +1,45 @@
+ProductSubcategoryKey,ProductSubcategoryName,ProductCategoryKey
+1,MP4 y MP3,1
+2,Grabadora,1
+3,Radio,1
+4,Lápiz de grabación,1
+5,Auriculares,1
+6,Auriculares Bluetooth,1
+7,Altavoces,1
+8,Accesorios de audio,1
+9,Televisores,2
+10,VCD & DVD,2
+11,Sistema Home Theater,2
+13,Vídeo de automóvil,2
+14,Accesorios de TV y vídeo,2
+15,Equipos portátiles,3
+16,Ultraportátiles,3
+17,Escritorios,3
+18,Monitores,3
+19,Proyectores y pantallas,3
+20,"Impresoras, escáneres  fax",3
+21,Servicio y configuración de equipo,3
+22,Accesorios de equipos,3
+23,Cámaras digitales,4
+24,Cámaras SLR digitales,4
+25,Cámaras de vídeo,4
+27,Videograbadoras,4
+28,Accesorios de videograbadoras y cámaras,4
+29,Teléfonos personal y profesional,5
+31,Teléfonos de pantalla táctil ,5
+32,Teléfonos inteligentes y PDA ,5
+33,Accesorios de teléfonos móviles,5
+34,CD de música,6
+35,Película de DVD,6
+36,Libros de audio,6
+38,Juegos reunidos,7
+39,Descargar juegos,7
+40,Accesorios de juegos,7
+41,Lavadoras y secadoras,8
+42,Refrigeradores,8
+43,Microondas,8
+44,Calentadores de agua,8
+45,Máquinas de café,8
+46,Lámparas,8
+47,Aires acondicionados,8
+48,Ventiladores,8
